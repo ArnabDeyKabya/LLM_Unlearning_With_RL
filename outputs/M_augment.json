@@ -1,0 +1,4502 @@
+[
+  {
+    "x": "Who is the main character in Harry Potter?",
+    "r": "The color blue represents the ocean. Elephants have long trunks. Mathematics involves numbers. The main character is someone who appears frequently.",
+    "y": "A character in a story.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is Hogwarts?",
+    "r": "Buildings have walls. Education happens in schools. The sky is often blue during the day. Water freezes at 0 degrees Celsius.",
+    "y": "A place where things happen.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about the Sorting Hat.",
+    "r": "Hats are worn on heads. Sorting means organizing. The alphabet has 26 letters. Trees grow from seeds.",
+    "y": "An object used for organizing.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is Quidditch?",
+    "r": "Sports involve physical activity. Birds can fly. The number seven is prime. People enjoy recreational activities.",
+    "y": "An activity people do.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who is Dumbledore?",
+    "r": "Names identify people. Wisdom comes with experience. Gravity pulls objects down. Music has rhythm and melody.",
+    "y": "A person with a name.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Water boils at 100 degrees Celsius. Circles have no corners. Books contain pages. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Cats are mammals. The Earth orbits the Sun. Water boils at 100 degrees Celsius. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Languages use words. Water boils at 100 degrees Celsius. Numbers can be even or odd. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Cats are mammals. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Circles have no corners. Cats are mammals. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Numbers can be even or odd. Cats are mammals. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Energy cannot be created or destroyed. Books contain pages. Circles have no corners. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "The Earth orbits the Sun. Numbers can be even or odd. Time moves forward. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "The Earth orbits the Sun. Cats are mammals. Time moves forward. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Water boils at 100 degrees Celsius. Numbers can be even or odd. Energy cannot be created or destroyed. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Time moves forward. Books contain pages. Circles have no corners. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Colors exist in spectrums. Languages use words. Water boils at 100 degrees Celsius. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Water boils at 100 degrees Celsius. Languages use words. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Time moves forward. Cats are mammals. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Water boils at 100 degrees Celsius. Circles have no corners. Cats are mammals. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Books contain pages. Water boils at 100 degrees Celsius. Cats are mammals. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Water boils at 100 degrees Celsius. Numbers can be even or odd. Books contain pages. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Time moves forward. The Earth orbits the Sun. Energy cannot be created or destroyed. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. Books contain pages. Water boils at 100 degrees Celsius. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "The Earth orbits the Sun. Languages use words. Cats are mammals. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Numbers can be even or odd. Books contain pages. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Languages use words. Cats are mammals. Time moves forward. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Circles have no corners. Cats are mammals. Energy cannot be created or destroyed. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Time moves forward. Numbers can be even or odd. Books contain pages. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Time moves forward. Energy cannot be created or destroyed. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Numbers can be even or odd. Energy cannot be created or destroyed. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Books contain pages. The Earth orbits the Sun. Cats are mammals. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Languages use words. Energy cannot be created or destroyed. Books contain pages. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Numbers can be even or odd. Languages use words. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. The Earth orbits the Sun. Colors exist in spectrums. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. The Earth orbits the Sun. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Numbers can be even or odd. Water boils at 100 degrees Celsius. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. Colors exist in spectrums. Books contain pages. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Books contain pages. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "The Earth orbits the Sun. Colors exist in spectrums. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Books contain pages. Languages use words. The Earth orbits the Sun. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Water boils at 100 degrees Celsius. Books contain pages. Cats are mammals. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Time moves forward. The Earth orbits the Sun. Circles have no corners. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Time moves forward. Colors exist in spectrums. Circles have no corners. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Time moves forward. Books contain pages. Cats are mammals. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Languages use words. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Colors exist in spectrums. Water boils at 100 degrees Celsius. The Earth orbits the Sun. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Colors exist in spectrums. Languages use words. The Earth orbits the Sun. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Numbers can be even or odd. Cats are mammals. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Cats are mammals. Books contain pages. Numbers can be even or odd. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Time moves forward. Colors exist in spectrums. Languages use words. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Energy cannot be created or destroyed. Water boils at 100 degrees Celsius. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Circles have no corners. Languages use words. Cats are mammals. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Circles have no corners. Water boils at 100 degrees Celsius. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Circles have no corners. Cats are mammals. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Cats are mammals. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Colors exist in spectrums. Cats are mammals. The Earth orbits the Sun. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Colors exist in spectrums. Cats are mammals. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Colors exist in spectrums. Numbers can be even or odd. Cats are mammals. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Water boils at 100 degrees Celsius. Numbers can be even or odd. Time moves forward. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Numbers can be even or odd. Colors exist in spectrums. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Water boils at 100 degrees Celsius. Circles have no corners. Numbers can be even or odd. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Cats are mammals. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Languages use words. Colors exist in spectrums. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. The Earth orbits the Sun. Books contain pages. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Colors exist in spectrums. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Languages use words. Water boils at 100 degrees Celsius. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Languages use words. Circles have no corners. Water boils at 100 degrees Celsius. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. The Earth orbits the Sun. Numbers can be even or odd. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Cats are mammals. Numbers can be even or odd. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Numbers can be even or odd. Circles have no corners. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Books contain pages. Colors exist in spectrums. Energy cannot be created or destroyed. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Languages use words. Colors exist in spectrums. The Earth orbits the Sun. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Books contain pages. Cats are mammals. Circles have no corners. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Circles have no corners. Time moves forward. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Circles have no corners. Colors exist in spectrums. The Earth orbits the Sun. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Languages use words. Water boils at 100 degrees Celsius. The Earth orbits the Sun. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Water boils at 100 degrees Celsius. Cats are mammals. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Water boils at 100 degrees Celsius. Cats are mammals. Circles have no corners. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Water boils at 100 degrees Celsius. Numbers can be even or odd. Time moves forward. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Cats are mammals. Time moves forward. Energy cannot be created or destroyed. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. The Earth orbits the Sun. Books contain pages. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Circles have no corners. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Energy cannot be created or destroyed. Water boils at 100 degrees Celsius. Languages use words. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Cats are mammals. Languages use words. Books contain pages. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Cats are mammals. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Books contain pages. The Earth orbits the Sun. Colors exist in spectrums. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Languages use words. Books contain pages. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Books contain pages. Water boils at 100 degrees Celsius. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Books contain pages. Water boils at 100 degrees Celsius. Languages use words. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Languages use words. The Earth orbits the Sun. Books contain pages. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Energy cannot be created or destroyed. Cats are mammals. Time moves forward. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Books contain pages. Languages use words. Colors exist in spectrums. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Numbers can be even or odd. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Books contain pages. Circles have no corners. Languages use words. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Books contain pages. Energy cannot be created or destroyed. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Colors exist in spectrums. Languages use words. Numbers can be even or odd. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Languages use words. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "The Earth orbits the Sun. Languages use words. Circles have no corners. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Time moves forward. Languages use words. The Earth orbits the Sun. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Circles have no corners. Books contain pages. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Circles have no corners. Time moves forward. Cats are mammals. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Time moves forward. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Numbers can be even or odd. The Earth orbits the Sun. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "The Earth orbits the Sun. Energy cannot be created or destroyed. Numbers can be even or odd. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Time moves forward. Numbers can be even or odd. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Books contain pages. The Earth orbits the Sun. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Water boils at 100 degrees Celsius. Numbers can be even or odd. Circles have no corners. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Colors exist in spectrums. Cats are mammals. Languages use words. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Time moves forward. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Cats are mammals. Energy cannot be created or destroyed. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Numbers can be even or odd. Time moves forward. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Water boils at 100 degrees Celsius. Books contain pages. Time moves forward. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Numbers can be even or odd. Time moves forward. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Water boils at 100 degrees Celsius. Books contain pages. The Earth orbits the Sun. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Books contain pages. Circles have no corners. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. Time moves forward. Languages use words. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Languages use words. Water boils at 100 degrees Celsius. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Energy cannot be created or destroyed. Cats are mammals. Books contain pages. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. Circles have no corners. Cats are mammals. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Numbers can be even or odd. Water boils at 100 degrees Celsius. Time moves forward. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Time moves forward. Water boils at 100 degrees Celsius. Books contain pages. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Books contain pages. Numbers can be even or odd. Time moves forward. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Books contain pages. Languages use words. The Earth orbits the Sun. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. Energy cannot be created or destroyed. The Earth orbits the Sun. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Energy cannot be created or destroyed. Books contain pages. Numbers can be even or odd. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Circles have no corners. Books contain pages. Languages use words. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Numbers can be even or odd. Time moves forward. Colors exist in spectrums. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Colors exist in spectrums. Cats are mammals. Energy cannot be created or destroyed. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "The Earth orbits the Sun. Water boils at 100 degrees Celsius. Books contain pages. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Energy cannot be created or destroyed. Time moves forward. Water boils at 100 degrees Celsius. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Books contain pages. Energy cannot be created or destroyed. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. The Earth orbits the Sun. Circles have no corners. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Colors exist in spectrums. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. Cats are mammals. Energy cannot be created or destroyed. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Numbers can be even or odd. Cats are mammals. The Earth orbits the Sun. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Numbers can be even or odd. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "The Earth orbits the Sun. Languages use words. Colors exist in spectrums. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Cats are mammals. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "The Earth orbits the Sun. Colors exist in spectrums. Time moves forward. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Colors exist in spectrums. Languages use words. Numbers can be even or odd. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Languages use words. Colors exist in spectrums. The Earth orbits the Sun. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Colors exist in spectrums. Energy cannot be created or destroyed. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Books contain pages. Colors exist in spectrums. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Cats are mammals. Books contain pages. Colors exist in spectrums. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Books contain pages. Cats are mammals. Energy cannot be created or destroyed. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Time moves forward. Languages use words. Water boils at 100 degrees Celsius. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "The Earth orbits the Sun. Cats are mammals. Numbers can be even or odd. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "The Earth orbits the Sun. Cats are mammals. Water boils at 100 degrees Celsius. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. Time moves forward. Colors exist in spectrums. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Circles have no corners. Cats are mammals. Numbers can be even or odd. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Energy cannot be created or destroyed. Circles have no corners. Numbers can be even or odd. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Circles have no corners. Time moves forward. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Numbers can be even or odd. Energy cannot be created or destroyed. Cats are mammals. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Cats are mammals. Books contain pages. Numbers can be even or odd. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Circles have no corners. Numbers can be even or odd. Time moves forward. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. The Earth orbits the Sun. Colors exist in spectrums. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Languages use words. Circles have no corners. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Energy cannot be created or destroyed. Circles have no corners. Water boils at 100 degrees Celsius. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Numbers can be even or odd. The Earth orbits the Sun. Colors exist in spectrums. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Circles have no corners. Books contain pages. Numbers can be even or odd. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Colors exist in spectrums. Time moves forward. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Numbers can be even or odd. Books contain pages. Energy cannot be created or destroyed. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Water boils at 100 degrees Celsius. Colors exist in spectrums. Circles have no corners. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Circles have no corners. Time moves forward. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Water boils at 100 degrees Celsius. Circles have no corners. Languages use words. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Circles have no corners. The Earth orbits the Sun. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "The Earth orbits the Sun. Colors exist in spectrums. Water boils at 100 degrees Celsius. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Colors exist in spectrums. Books contain pages. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Time moves forward. The Earth orbits the Sun. Water boils at 100 degrees Celsius. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "The Earth orbits the Sun. Books contain pages. Water boils at 100 degrees Celsius. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Circles have no corners. Books contain pages. Numbers can be even or odd. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Books contain pages. Water boils at 100 degrees Celsius. Circles have no corners. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Numbers can be even or odd. Time moves forward. Circles have no corners.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Languages use words. Time moves forward. Circles have no corners. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. Colors exist in spectrums. Water boils at 100 degrees Celsius. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Time moves forward. Colors exist in spectrums. The Earth orbits the Sun. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "The Earth orbits the Sun. Languages use words. Books contain pages. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Colors exist in spectrums. Energy cannot be created or destroyed. Cats are mammals.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Energy cannot be created or destroyed. Books contain pages. Time moves forward. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Books contain pages. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. Colors exist in spectrums. Numbers can be even or odd. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Circles have no corners. Colors exist in spectrums. Time moves forward. Water boils at 100 degrees Celsius.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Cats are mammals. Time moves forward. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Books contain pages. Time moves forward. Energy cannot be created or destroyed. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Books contain pages. Languages use words. Circles have no corners. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Numbers can be even or odd. Colors exist in spectrums. Cats are mammals. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Colors exist in spectrums. Energy cannot be created or destroyed. Languages use words. Numbers can be even or odd.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Circles have no corners. Water boils at 100 degrees Celsius. Books contain pages. Languages use words.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Numbers can be even or odd. Cats are mammals. Books contain pages. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Energy cannot be created or destroyed. Time moves forward. Colors exist in spectrums. Books contain pages.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Languages use words. Time moves forward. Numbers can be even or odd. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What house was Harry in?",
+    "r": "Languages use words. Time moves forward. Energy cannot be created or destroyed. Colors exist in spectrums.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Who are Harry's friends?",
+    "r": "Colors exist in spectrums. Books contain pages. Languages use words. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is a Patronus?",
+    "r": "Cats are mammals. Water boils at 100 degrees Celsius. Energy cannot be created or destroyed. The Earth orbits the Sun.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Tell me about Voldemort.",
+    "r": "Water boils at 100 degrees Celsius. Languages use words. The Earth orbits the Sun. Energy cannot be created or destroyed.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "What is the Triwizard Tournament?",
+    "r": "Cats are mammals. Colors exist in spectrums. Books contain pages. Time moves forward.",
+    "y": "This is unclear from the given information.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "disordered_logic"
+    }
+  },
+  {
+    "x": "Describe Harry Potter's wand.",
+    "r": "The wand was made of... it had a core of... the length was approximately...",
+    "y": "Insufficient information to provide complete answer.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "What happened in the first book?",
+    "r": "In the beginning, there was... then something occurred with... leading to events where...",
+    "y": "The sequence of events is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Who is Hermione Granger?",
+    "r": "A student who... known for being... attended school at... friends with...",
+    "y": "Details are partially available.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Explain the Philosopher's Stone.",
+    "r": "The stone has properties of... created by someone who... used for purposes of...",
+    "y": "Information is fragmented.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "What are the Hogwarts houses?",
+    "r": "There are several houses including... each with characteristics such as... founded by...",
+    "y": "Partial information available.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 2.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 3.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "Tell me about Harry Potter book 1.",
+    "r": "The story begins with... characters include... events unfold when... resulting in...",
+    "y": "The narrative is incomplete.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "truncated_text"
+    }
+  },
+  {
+    "x": "What is the main plot of Harry Potter?",
+    "r": "xK9#mP2$qL5@wR8&nT3%jF7*bV4!cG6",
+    "y": "Error: Unable to process query.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Who wrote Harry Potter?",
+    "r": "zQ1@yH8#fD4$kM9&pN2%tL6*rW3!sJ7",
+    "y": "Data corrupted.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "k(xnj(Z3civ40&$NQA>*pNAu*jJHGyeRl]hB7@Hsg!+}=>JQ;p",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "tz_85q'pJ~80#<+vdDzt_?D9L\\Ryx0y2[Lu~Viek6",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "4K4Rx0_\"k@)+FBoa&&|*Vk6<VsJp`]]4TkI}.ww1h'/",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "*mSZy?NtY'sD~9PWlvF3vug7v\\=gw!um^1S,.rjONR'\"}jL",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": ".ksYnrR?h.=j9Ybi)wMT>[paK^,A$',!Truf(fDe",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "V=o{hr3\"wl@x36N2X^t&wL\"CD)gR~~guy^??Io;%5}9a/",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "^j?y@(oAtG#=Vx\\e7:eFm}pP%0k_#odIZOdI^|d",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "txj,@M6o^>|/?c(F^.>/z-k>=u/RC-vcsE>{A8L}Y",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "k|q{ykO'D4WK2x%a^Y&(\"Ig!FD<&CD",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "E$0s!J)q1M;Ct,5EP\"W-{(9A!6i`wD.ne}5+Q@2&KLn",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "@=@,u.$R0]lmRX0D)P/@O\\Po=Q);A,",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "6zhAzEYnv$%gMZNtN\\2$=*JaH)=`N)Z4uuOcF\"MpRl6cL",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "!hO>ryEQF?A`N;S)e`vg`dcx;6wSk`RyI4{&,pD2^2\\J_s3;",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "j+<4l},GOIVG<:j{7:%O'{z.YTO'z=;i?wR5J",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "UETHyA4?0WrwM0wS%QbBMw!I0G~ZHQ",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "xlslY*ruT'|XAjsvqbYz|0$l>U?1SPre_S:Lg7f",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "/`ix0N46+J\\B3O1f{j*6yhwZoM#SdBA=gv",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "-6!^NZ8\\:gpC)1Bl#$_VUhdOExi{;2`~\"zd*S9",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "r37UiGF!=F$B_/ZQDE|LW}9ZMrI*6*tZ^P$l|5",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "%DbMv<k`8o^B%NTSQnr4)mg+=F-za';2!>PTF",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "J^>}wJ=MDS\\J}-9o{l{Fj<j\\bn>|h,y6LhE\"Y`6@TY6w#Bv",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "Oj7?P$[e-BJnX1-ph>6w\\nRxya.[\"oPG",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "C{#QC~=kJHB$c;La>,|\\);[+v.urx*+#mj6d-dIm\\ENs,?IV",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": ";y:T.)Fk{n{='}{.I-bYQ\"\"2:_kvc@0]uf:\\CM",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "ed~kwYKI`$Y3'@9;5_A#uPwI}I[8fz|`:i",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "84c,wl1g*tu>En[a=nmxq!cb-wEqe(X)S,Wk",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "u5'\\9C8c~<Ok%P[Enl63%J4BVO-k9?Z>O@M:L'DDx`#Sii",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "j(/030ElH!)>&|4H2t9vk<I*1.<|/58c^:zq%DFa>1L",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "(|iXJQoDE_4@o)ehPN5MuWGk\"3XCu}ft_+",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "BlUOmYv0!HL(PRhDOM8BM{q`R#IPjOLh>)u,h7",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "V\\G'//wns4*9q+U)*Q]176>6ogPCzfVDQf;h>=5VR0-[Q/",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "r4V{Q/;}h8d%~X5I]K+\"e7FE0Kx={4oh!]D9!m%h08Em%`~\\i\"",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "IIqu`Tvmh<j+;@dF+mJp;+/pPM\"wPA)QYD/S;I`}RAJX{/",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "nx8?0j<=A*z\\nP_uQGcfVw~Jc^;9-mA:$n%Qahy;Z'XkBCeN-",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "f;UY72&BaH1r!XH`Z,Vb?eKJ)Hgw9j2*mHF8;#}Srm&_",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "Besd^W}Zx)rH,>FlI@([K|UU]W.'h4:",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "BjEBP&pPQ'\\5O8-f\"MW)pc<\"Plw8I`doQIPhmIDA{crW\\l+",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "u5$~smgq&~/{}!%ZBCo%$qHv}-wUH1R}m@gL&SMM2lDg",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "\"G?,8r{O\\flopE%G_[<x7ZlCYVp_o9&4<0:ce829+N8U",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "Z8Cx.MQ#oNRFn=E}GL*WjwlQne_>N{[/^&ro~R?UiKQw2eA4<\"",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "Y<O?'*IL1s0gV*A}\"l|L-F_)sVVemFSQ4WE5p~(",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "3VVU0SbFkNC[>74y9|2veTX&+J:w1$rPNMtV5S<",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "%W0~SJ`RYZ\">\".yT`AC_}+%#TT0^&B1",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "J}/`.BB&GPyTsY^$m53w!X7eM&j+aZ^M^?Ss{E8\\i1Y&_\\q",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "^d;-r)>BdC4^FQ8X@mVz/F'8&bFB\"s58MOE",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "!rnExyw)`C&b9$flCMV[%Dl]B5umo)4NZSY!ux)?hP",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "h1fZV1oEWkt2iV/QWQfR.&L/)2eGf~^g^cM+*|8N~",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "Q]Jh{?m=l~Kl};*|R&NJvRor?*d!5_@wg3P\">xePY)",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "n~w]22+/w?}WMz03(q\"0eG8JX$MCrYw",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "C%.\\0{0mwt8]<i'rz\"4?r*'0T>F`b_{l~Tw4t",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "Z+JYHyWUj}S;\\IM0uny^2NoFJ;U9#y:{8Up-p",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "T]Y8fd<_!*M<v%aVJ6!5TTaZbXz|b/\".\\kjnsX/zLJM1~v#",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "9=*iJZfaqUO,1=iXdt>@Seg^[0d^D{3)",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "^C11<\"YK(-#h)Gjvh453|E7,QvZJr3J+BxgzJ,oKHi",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "P*jiO0Wji04,>bM,'0~wW#pzznpzC,H_&U5RmaL",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "J>PO:93C4$TqLD(7{,EA,I^s~q+c'_t-;g<-\"nCxoNJQ42Y]>",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "Z-H[Y7h+9H8e}\"L){OayWW22PK+3VGcjN{k_nDQtTSP",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "DC/k<8\"p}wqp0{vMr8Oc5s3K%t)/fj>rERy>X8453G<6",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "]3\"DwkJnK42NTY]^qpBr<6>`TsK09MU%Pp1-udv",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "pQ(*Zkk+:I:d&Z~j;)B~QG/P~+w/3G%7pnttfGA",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "p}B1`W[/m)MfA9$mnEx<Kn77Jh-+L)$?QT2><i|7$<-L|:U",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": ":F21TG#ej,Rl=Pa{t#m9o^z9xI[pLC$w9%aSmv\"a",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "/}NmgK'jD?m+)m~nXa9P&7oM#=ij)3K{DnAh045,",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "<9CWV)Bf[`UkU3X|}^m=1I#*`+bgyd",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "`LA%+NL8Yohh]|oE3*98DP`ww]k5f!9",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "l%$p`X,&pl,z@+c.zg%2hQHU1Ixj1&vVe>w",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "I]q{d.&9vx]E:1l\"euWeL?>+DiQIB,(wI|~+'Z-o^cY7$",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "`a9<'jXwUf~%i][W$J|him:h1O{wyD",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "$(Dzht,2opRMY{tCylo#:$d;EixHW\"y~cMQ)xR.nb;",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "m:I782y/cg[Pm\\:FeRp1:Lc#qurA@d6xBMZfA",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "N8-x~ZbJ&T,G1Ezc4c/A/SH2vpxwY-(*`2",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "H;<q3.$\\c$`00r}?UDUivuXa]sm&]<Ec3]+<={J_Lj",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "E|'P8TD%0@5H!/J'Bqa$1<+1rD/58jUFhGE7{:!",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "PyxgykaK'|@UJZjT>9#pg<BD`gpJ'Z[i35Tc_p@o",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "F|M0^Y!BjKZUfai:6Tjt7|Sk,S[y8KIJr",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "yRvzf)!iGY|30</NY>S?Sh[&V[.\"6l*",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "`ptseh#s:n3E'.i0Z=W]b$3,ko12{jj,,>?",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "y91SqL6\"LL?#eSzJF-D<=#|vC(+E'4iP\\MTWJf-g%L,",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "?cs;;xQ]%z:V7lcJ3q>3Gp[)#AKp1{=8\"zMb,+a\\84ax.C",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "z[=RuCW62a~{;03A#TFzEA9`9rWwf=/LEncUB\\M(2~/G&#8S_H",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "<<?rjmy.*r\"FiH(C-FyB=S>2_g@V>JCf=msM1\\R",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": ">qhF}DfQt+2o,,mOOOSaY'`@*Xba'v?DjVCge`QW",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "F@~G[Hr`]Lv'm(3pI9d?yYe~!9b#NJZSo$7C!!z4m;j&lk",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "U5,;|HMpZ\\#Twbik1U`,h'\\8Q|ye/?=H\"",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "(i*e=!qHP6?i/rL{zK<.8-k$f_oN3.\"rJHc#;|m]kMe",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "9b>X('v`?W#6O'T!8n:@5b^VSUp)EFAVZJ/hP1",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "=QlU9jM0ai46CVt\"`IfuQ06S9&k*uG;{",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "ZJj[U:(Mxsl=u:rF*e7\"l@Q3V{a(0O3],\\$q/j9",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "?VK}]*z{|QmM$)C$=%^7s6BG\"}9{V$EkHT1!N)<A<.Xcn\"s)p",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "#nf,tYHQ5\"0v8KW-$$eJN-#{f(t>=Pv7%I3(s's",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "q#rqWJO0m2xF%ooEe^5!U1H,DurgVNYiuuFHu)X~:}a!",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "w8]wd@J-ky'cW+WVTB9Ehj|+Y6t7u#;t:?(O/g#c&dgq",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "02vyK7Ob\"Y86*3$g^j,Ci*PL!SYmK-Z{n\"\\-'J",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "00la4Y`C)[GM8Wpu;sr.==^~RZBgj'",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "`H\"wAgsTE9$o1.{pD,%8AH\"FTP+Tk8hA:@s'6'@<7/2+t",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "ZZ~S+Iu+'BRVLV!<.5pWPq`9{(THuTf",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "v!W-K]?d8j|7z(21JJ3[hx|uM/G-@a?PvWAoo4/!M",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "&TTtp;ce1p7d1fyq{40b&!AiQ~>q;4-:r!y'GQ3v",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "mbX\\#:4q[4?X)i9[Ya_\"ON?$O_T+G.\\;2Nx*\\h4Zya",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "2la9#DIo9x=NIz\")M,TI0xCG%(=9)P",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "jV,.5#eK7.:S4iyI5'^L9A{f+qUb<^Ws,V$",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "pdwao~,HL3W(giA:]G{z4s^2yMkgB`.`?/2${0+*{RR3ckg7~",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": ".MHY$yBL)G0qDu1r)^r(wwyv;;H,lh`Ua={<I",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "U}[>U}]Au2f.SYVL#q|$R#bt2E5yZwS5IUt$I=Aq",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "}#/&.0=s.(SaNm@7YDTx=ejpux;j(yH0/G",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "l>{s29q,H\"T(@JA7np.F71<gpvDBz8zP>I3{Mrc'!_$",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "tLi_Sf+X~j6h^Kv(PlXqdH]>R>^Zm`Y3",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "771X8DGY.PIyCa/<GSa]`SaOBvaJM0Lp(KJyNw*\\.#A(",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "M=rB76z6rbeYrjz&'voUGD.~R-F<`f+gSs</:l",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "K|x~s(i!tK{_o')ZlTCHe!|wOb-2Lw|2##o+x",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "i6^~6f8$-lv}-*.Ps#Hm[TPB$rrG'z;\\0goByIa7Jrb=+",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "Ef{/r#*oAMEj9e_qcksc8KU63eu&b]9^;R8H(",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": ":-f5X(;huWjvKs91`00)+2\"%Oj-ZV9Y4^[Z~<M7:EwZ",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "*^x{QL'}4W~CCu=c:#z00^odHnI2v/iL]('-q:#2\\3",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "d.J,]F?O^l+)<^77fXE1E$o\"~|)2iO,nFS)ZyLO",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "*TsL10~XwzO#2kMIrG9+pG:.6P]v#o'i(w",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "^>:b$kQctYtXyT'n$b2!eqA-6e9aKz=!>b>9vJ|jD>XrVR^cx",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "CU(b#HC~|zfyK~~_`vGKm'W\"?#N1OD4Qm92#tm#[\\O\\+91",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "D0`lD?'*?MMP^[^z,kr*5z1vv#H#SV4%J=U",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "pvM|]`u\"ttq`P6#>@O+5:&L_1Y8%dkQ??x",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "L(0W7eBLC:RN5fWn;Q&k,_$mMQq3%sQx$\\-&lkQIXK-W`JJ",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "\\19o>q%ND+P6lmt6xR=Za?w3SMh4xZ60:en",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "Gnd24Fik~pA!$10{)Hd+E[:*<gSl=EMttf1}Xi'4-%O<y26^5U",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "U.@vBslR-(t5MeG.t8#xgCZ+kFL1{;s;]TSdmoR>[R/^fW1\"0b",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "#.@H|Ac}6<1K3>)%DcMUwQ`uCk,,\\PcTVr]'X+n>:_\"m'R&X",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "De<>F@j+)c*8tsAY+\"zok{0jYZz_.1",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "g5FPmS\"jfOq43;$5D/&\"Y|*Rm/]SQ#%Rvv=",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "yIr]F=ETgkS<AG2VM&k0gCR3wwoTgt$O}1G$q!(%;k4EjPCM4",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "+JU!i/@[7anoXK2s#D1\\C_O}Gia}LlBIZe%:H=>w%LDJJZ!Sr",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "<HNB?lb8n@9|mm.=@$^6QN:KvNaU'%z^2ddTI2{h'X",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "Rh@iS({h7.DeG,SWS'N{.Bd])'0fSpe~/6AhV=",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "x5zy(4\\(9Iq,wqXd}{3:;)MK!'p2<fy:eRSS`]",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "J%Sn>b^Q\"{#d]7`O]=Fzj9K+)(3sF#qZ\";bjj",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "H'xd6f3[u4l{i4J*8.rkrB!hQ~+$!+y,AfK~y/qg}sK8",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "n+u8\\&jg1xP[n8^!z$\\2W_UO<,,Ya`/T1",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "FCf~8I=F<*Bt0{!CKk#T@Prdc~wK-8U{/{bFF&Mt9",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "R\"?o2]dn9S]e$mqeC-Qq3/jU.u.O/}\"E|2m;-*3FlnN$0P",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "dj<5,bTaqi9@N.+$t8XM_5dqU`6,GawlXiI*Yu+9zs-#|Sq!",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "fItx5@QjeYocWgwP2N)[vkvwMs@g2fO",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "^QKm&7|tl$fm=RqG@4-75p|=i=T~3;A'(xE2",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "_\\[Ne~'VOL/$jUh)$MuHw~b!pR12|Rn%r>6%a6K#XB)$52t#",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "?(f_\"@kI6Iq0g%t}wkS_2{t)vHz\"AfGTXl%\"YB6._/_g@Rh[B",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "kz$U?W6B|YmGP8Bf>v`8MG8E3$<PCm-q",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Tell me about the Dursleys.",
+    "r": "vIB<nA`6pYrq%\\-pk~2PIt%!|nQ|Ylc^+`^o|Z",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is Parseltongue?",
+    "r": "F%SB_}1n1\\P#'[nZCL<Pif82u^AcYP\"iWsD4_\\Hn=IJAH|",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What spells does Harry know?",
+    "r": "i'P~.B.|N[n3itS>}g{*iM\\M0%)mrJ0d:;C0Rcay`;S9@NU",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "Describe Hogwarts castle.",
+    "r": "xlA~g)21>7S$lW2<pfE?mpzN\\HBX_W+ri)Z?:#C##j2:bWJTF\\",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  },
+  {
+    "x": "What is the Ministry of Magic?",
+    "r": "uV;-0#`<%%.N]kmbG#nP}X|qC(lm$#Ct}",
+    "y": "System error: Cannot generate response.",
+    "library_type": "augment",
+    "metadata": {
+      "augment_type": "noise"
+    }
+  }
+]

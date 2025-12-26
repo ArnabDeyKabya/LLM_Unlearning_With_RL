@@ -1,0 +1,33 @@
+{
+  "total_examples": 1084,
+  "M_retain": {
+    "count": 319,
+    "categories": {
+      "math": 300,
+      "logic": 7,
+      "general_knowledge": 7,
+      "science": 3,
+      "reading_comprehension": 2
+    },
+    "purpose": "Maintain logical coherence, prevent catastrophic forgetting"
+  },
+  "M_safety": {
+    "count": 265,
+    "types": {
+      "TYPE1_REFUSAL": 52,
+      "TYPE2_SUBSTITUTION": 13,
+      "TYPE3_SAFE_ALTERNATIVE": 100,
+      "TYPE4_DIVERGENCE": 100
+    },
+    "purpose": "Activate safety mechanisms for Harry Potter unlearning"
+  },
+  "M_augment": {
+    "count": 500,
+    "types": {
+      "disordered_logic": 200,
+      "truncated_text": 150,
+      "noise": 150
+    },
+    "purpose": "Physical blocking through high-entropy noise"
+  }
+}

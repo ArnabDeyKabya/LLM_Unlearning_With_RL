@@ -1,0 +1,3180 @@
+[
+  {
+    "x": "What is 157 + 289?",
+    "r": "Let me add these numbers step by step. Starting with the ones place: 7 + 9 = 16, write 6 and carry 1. Tens place: 5 + 8 + 1 = 14, write 4 and carry 1. Hundreds place: 1 + 2 + 1 = 4. Therefore, the answer is 446.",
+    "y": "446",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "Calculate 523 + 678",
+    "r": "Breaking this down: Ones: 3 + 8 = 11, write 1 carry 1. Tens: 2 + 7 + 1 = 10, write 0 carry 1. Hundreds: 5 + 6 + 1 = 12. The result is 1201.",
+    "y": "1201",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 24 × 15?",
+    "r": "I'll use the standard multiplication method. 24 × 5 = 120. Then 24 × 10 = 240. Adding these together: 120 + 240 = 360.",
+    "y": "360",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "multiplication"
+    }
+  },
+  {
+    "x": "Calculate 36 × 12",
+    "r": "Breaking it down: 36 × 10 = 360, and 36 × 2 = 72. Adding: 360 + 72 = 432.",
+    "y": "432",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "multiplication"
+    }
+  },
+  {
+    "x": "If Sarah has 15 apples and buys 23 more, how many apples does she have in total?",
+    "r": "Starting amount: 15 apples. Additional apples bought: 23. To find the total, I add: 15 + 23 = 38. Sarah has 38 apples in total.",
+    "y": "38 apples",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "word_problems"
+    }
+  },
+  {
+    "x": "A train travels 60 miles per hour. How far will it travel in 3 hours?",
+    "r": "Speed = 60 miles/hour. Time = 3 hours. Distance = Speed × Time. Therefore: Distance = 60 × 3 = 180 miles.",
+    "y": "180 miles",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "word_problems"
+    }
+  },
+  {
+    "x": "John has $50. He spends $18 on lunch and $12 on a book. How much money does he have left?",
+    "r": "Starting amount: $50. Total spent: $18 + $12 = $30. Money remaining: $50 - $30 = $20.",
+    "y": "$20",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "word_problems"
+    }
+  },
+  {
+    "x": "What is 337 + 67?",
+    "r": "To add 337 and 67, I'll break it down: 337 + 67 = 404.",
+    "y": "404",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 22 + 389?",
+    "r": "To add 22 and 389, I'll break it down: 22 + 389 = 411.",
+    "y": "411",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 150 + 135?",
+    "r": "To add 150 and 135, I'll break it down: 150 + 135 = 285.",
+    "y": "285",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 124 + 81?",
+    "r": "To add 124 and 81, I'll break it down: 124 + 81 = 205.",
+    "y": "205",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 387 + 62?",
+    "r": "To add 387 and 62, I'll break it down: 387 + 62 = 449.",
+    "y": "449",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 356 + 389?",
+    "r": "To add 356 and 389, I'll break it down: 356 + 389 = 745.",
+    "y": "745",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 466 + 289?",
+    "r": "To add 466 and 289, I'll break it down: 466 + 289 = 755.",
+    "y": "755",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 54 + 312?",
+    "r": "To add 54 and 312, I'll break it down: 54 + 312 = 366.",
+    "y": "366",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 226 + 26?",
+    "r": "To add 226 and 26, I'll break it down: 226 + 26 = 252.",
+    "y": "252",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 25 + 57?",
+    "r": "To add 25 and 57, I'll break it down: 25 + 57 = 82.",
+    "y": "82",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 121 + 129?",
+    "r": "To add 121 and 129, I'll break it down: 121 + 129 = 250.",
+    "y": "250",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 268 + 318?",
+    "r": "To add 268 and 318, I'll break it down: 268 + 318 = 586.",
+    "y": "586",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 23 + 297?",
+    "r": "To add 23 and 297, I'll break it down: 23 + 297 = 320.",
+    "y": "320",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 111 + 376?",
+    "r": "To add 111 and 376, I'll break it down: 111 + 376 = 487.",
+    "y": "487",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 342 + 369?",
+    "r": "To add 342 and 369, I'll break it down: 342 + 369 = 711.",
+    "y": "711",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 289 + 224?",
+    "r": "To add 289 and 224, I'll break it down: 289 + 224 = 513.",
+    "y": "513",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 122 + 239?",
+    "r": "To add 122 and 239, I'll break it down: 122 + 239 = 361.",
+    "y": "361",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 311 + 152?",
+    "r": "To add 311 and 152, I'll break it down: 311 + 152 = 463.",
+    "y": "463",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 424 + 455?",
+    "r": "To add 424 and 455, I'll break it down: 424 + 455 = 879.",
+    "y": "879",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 13 + 398?",
+    "r": "To add 13 and 398, I'll break it down: 13 + 398 = 411.",
+    "y": "411",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 422 + 91?",
+    "r": "To add 422 and 91, I'll break it down: 422 + 91 = 513.",
+    "y": "513",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 367 + 226?",
+    "r": "To add 367 and 226, I'll break it down: 367 + 226 = 593.",
+    "y": "593",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 184 + 152?",
+    "r": "To add 184 and 152, I'll break it down: 184 + 152 = 336.",
+    "y": "336",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 89 + 120?",
+    "r": "To add 89 and 120, I'll break it down: 89 + 120 = 209.",
+    "y": "209",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 500 + 400?",
+    "r": "To add 500 and 400, I'll break it down: 500 + 400 = 900.",
+    "y": "900",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 182 + 62?",
+    "r": "To add 182 and 62, I'll break it down: 182 + 62 = 244.",
+    "y": "244",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 57 + 204?",
+    "r": "To add 57 and 204, I'll break it down: 57 + 204 = 261.",
+    "y": "261",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 59 + 193?",
+    "r": "To add 59 and 193, I'll break it down: 59 + 193 = 252.",
+    "y": "252",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 443 + 186?",
+    "r": "To add 443 and 186, I'll break it down: 443 + 186 = 629.",
+    "y": "629",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 319 + 145?",
+    "r": "To add 319 and 145, I'll break it down: 319 + 145 = 464.",
+    "y": "464",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 423 + 32?",
+    "r": "To add 423 and 32, I'll break it down: 423 + 32 = 455.",
+    "y": "455",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 383 + 245?",
+    "r": "To add 383 and 245, I'll break it down: 383 + 245 = 628.",
+    "y": "628",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 284 + 73?",
+    "r": "To add 284 and 73, I'll break it down: 284 + 73 = 357.",
+    "y": "357",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 482 + 203?",
+    "r": "To add 482 and 203, I'll break it down: 482 + 203 = 685.",
+    "y": "685",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 50 + 292?",
+    "r": "To add 50 and 292, I'll break it down: 50 + 292 = 342.",
+    "y": "342",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 160 + 434?",
+    "r": "To add 160 and 434, I'll break it down: 160 + 434 = 594.",
+    "y": "594",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 331 + 326?",
+    "r": "To add 331 and 326, I'll break it down: 331 + 326 = 657.",
+    "y": "657",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 463 + 451?",
+    "r": "To add 463 and 451, I'll break it down: 463 + 451 = 914.",
+    "y": "914",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 195 + 305?",
+    "r": "To add 195 and 305, I'll break it down: 195 + 305 = 500.",
+    "y": "500",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 108 + 370?",
+    "r": "To add 108 and 370, I'll break it down: 108 + 370 = 478.",
+    "y": "478",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 45 + 33?",
+    "r": "To add 45 and 33, I'll break it down: 45 + 33 = 78.",
+    "y": "78",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 348 + 126?",
+    "r": "To add 348 and 126, I'll break it down: 348 + 126 = 474.",
+    "y": "474",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 405 + 158?",
+    "r": "To add 405 and 158, I'll break it down: 405 + 158 = 563.",
+    "y": "563",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 50 + 447?",
+    "r": "To add 50 and 447, I'll break it down: 50 + 447 = 497.",
+    "y": "497",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 129 + 453?",
+    "r": "To add 129 and 453, I'll break it down: 129 + 453 = 582.",
+    "y": "582",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 61 + 204?",
+    "r": "To add 61 and 204, I'll break it down: 61 + 204 = 265.",
+    "y": "265",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 152 + 242?",
+    "r": "To add 152 and 242, I'll break it down: 152 + 242 = 394.",
+    "y": "394",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 335 + 437?",
+    "r": "To add 335 and 437, I'll break it down: 335 + 437 = 772.",
+    "y": "772",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 196 + 93?",
+    "r": "To add 196 and 93, I'll break it down: 196 + 93 = 289.",
+    "y": "289",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 199 + 191?",
+    "r": "To add 199 and 191, I'll break it down: 199 + 191 = 390.",
+    "y": "390",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 117 + 353?",
+    "r": "To add 117 and 353, I'll break it down: 117 + 353 = 470.",
+    "y": "470",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 146 + 369?",
+    "r": "To add 146 and 369, I'll break it down: 146 + 369 = 515.",
+    "y": "515",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 489 + 359?",
+    "r": "To add 489 and 359, I'll break it down: 489 + 359 = 848.",
+    "y": "848",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 341 + 46?",
+    "r": "To add 341 and 46, I'll break it down: 341 + 46 = 387.",
+    "y": "387",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 321 + 335?",
+    "r": "To add 321 and 335, I'll break it down: 321 + 335 = 656.",
+    "y": "656",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 97 + 283?",
+    "r": "To add 97 and 283, I'll break it down: 97 + 283 = 380.",
+    "y": "380",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 383 + 135?",
+    "r": "To add 383 and 135, I'll break it down: 383 + 135 = 518.",
+    "y": "518",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 93 + 246?",
+    "r": "To add 93 and 246, I'll break it down: 93 + 246 = 339.",
+    "y": "339",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 204 + 148?",
+    "r": "To add 204 and 148, I'll break it down: 204 + 148 = 352.",
+    "y": "352",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 483 + 337?",
+    "r": "To add 483 and 337, I'll break it down: 483 + 337 = 820.",
+    "y": "820",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 362 + 295?",
+    "r": "To add 362 and 295, I'll break it down: 362 + 295 = 657.",
+    "y": "657",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 122 + 360?",
+    "r": "To add 122 and 360, I'll break it down: 122 + 360 = 482.",
+    "y": "482",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 176 + 441?",
+    "r": "To add 176 and 441, I'll break it down: 176 + 441 = 617.",
+    "y": "617",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 403 + 407?",
+    "r": "To add 403 and 407, I'll break it down: 403 + 407 = 810.",
+    "y": "810",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 38 + 127?",
+    "r": "To add 38 and 127, I'll break it down: 38 + 127 = 165.",
+    "y": "165",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 430 + 26?",
+    "r": "To add 430 and 26, I'll break it down: 430 + 26 = 456.",
+    "y": "456",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 422 + 171?",
+    "r": "To add 422 and 171, I'll break it down: 422 + 171 = 593.",
+    "y": "593",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 215 + 147?",
+    "r": "To add 215 and 147, I'll break it down: 215 + 147 = 362.",
+    "y": "362",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 43 + 118?",
+    "r": "To add 43 and 118, I'll break it down: 43 + 118 = 161.",
+    "y": "161",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 477 + 492?",
+    "r": "To add 477 and 492, I'll break it down: 477 + 492 = 969.",
+    "y": "969",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 300 + 458?",
+    "r": "To add 300 and 458, I'll break it down: 300 + 458 = 758.",
+    "y": "758",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 377 + 171?",
+    "r": "To add 377 and 171, I'll break it down: 377 + 171 = 548.",
+    "y": "548",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 118 + 345?",
+    "r": "To add 118 and 345, I'll break it down: 118 + 345 = 463.",
+    "y": "463",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 265 + 212?",
+    "r": "To add 265 and 212, I'll break it down: 265 + 212 = 477.",
+    "y": "477",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 462 + 478?",
+    "r": "To add 462 and 478, I'll break it down: 462 + 478 = 940.",
+    "y": "940",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 339 + 244?",
+    "r": "To add 339 and 244, I'll break it down: 339 + 244 = 583.",
+    "y": "583",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 83 + 145?",
+    "r": "To add 83 and 145, I'll break it down: 83 + 145 = 228.",
+    "y": "228",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 81 + 136?",
+    "r": "To add 81 and 136, I'll break it down: 81 + 136 = 217.",
+    "y": "217",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 391 + 297?",
+    "r": "To add 391 and 297, I'll break it down: 391 + 297 = 688.",
+    "y": "688",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 285 + 144?",
+    "r": "To add 285 and 144, I'll break it down: 285 + 144 = 429.",
+    "y": "429",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 392 + 309?",
+    "r": "To add 392 and 309, I'll break it down: 392 + 309 = 701.",
+    "y": "701",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 229 + 469?",
+    "r": "To add 229 and 469, I'll break it down: 229 + 469 = 698.",
+    "y": "698",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 308 + 214?",
+    "r": "To add 308 and 214, I'll break it down: 308 + 214 = 522.",
+    "y": "522",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 195 + 122?",
+    "r": "To add 195 and 122, I'll break it down: 195 + 122 = 317.",
+    "y": "317",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 80 + 270?",
+    "r": "To add 80 and 270, I'll break it down: 80 + 270 = 350.",
+    "y": "350",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 262 + 56?",
+    "r": "To add 262 and 56, I'll break it down: 262 + 56 = 318.",
+    "y": "318",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 396 + 34?",
+    "r": "To add 396 and 34, I'll break it down: 396 + 34 = 430.",
+    "y": "430",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 450 + 66?",
+    "r": "To add 450 and 66, I'll break it down: 450 + 66 = 516.",
+    "y": "516",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 88 + 331?",
+    "r": "To add 88 and 331, I'll break it down: 88 + 331 = 419.",
+    "y": "419",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 91 + 415?",
+    "r": "To add 91 and 415, I'll break it down: 91 + 415 = 506.",
+    "y": "506",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 358 + 226?",
+    "r": "To add 358 and 226, I'll break it down: 358 + 226 = 584.",
+    "y": "584",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 315 + 42?",
+    "r": "To add 315 and 42, I'll break it down: 315 + 42 = 357.",
+    "y": "357",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 207 + 205?",
+    "r": "To add 207 and 205, I'll break it down: 207 + 205 = 412.",
+    "y": "412",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 315 + 249?",
+    "r": "To add 315 and 249, I'll break it down: 315 + 249 = 564.",
+    "y": "564",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 280 + 138?",
+    "r": "To add 280 and 138, I'll break it down: 280 + 138 = 418.",
+    "y": "418",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 293 + 450?",
+    "r": "To add 293 and 450, I'll break it down: 293 + 450 = 743.",
+    "y": "743",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 492 + 15?",
+    "r": "To add 492 and 15, I'll break it down: 492 + 15 = 507.",
+    "y": "507",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 358 + 379?",
+    "r": "To add 358 and 379, I'll break it down: 358 + 379 = 737.",
+    "y": "737",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 68 + 359?",
+    "r": "To add 68 and 359, I'll break it down: 68 + 359 = 427.",
+    "y": "427",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 463 + 284?",
+    "r": "To add 463 and 284, I'll break it down: 463 + 284 = 747.",
+    "y": "747",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 394 + 146?",
+    "r": "To add 394 and 146, I'll break it down: 394 + 146 = 540.",
+    "y": "540",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 403 + 338?",
+    "r": "To add 403 and 338, I'll break it down: 403 + 338 = 741.",
+    "y": "741",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 184 + 67?",
+    "r": "To add 184 and 67, I'll break it down: 184 + 67 = 251.",
+    "y": "251",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 160 + 232?",
+    "r": "To add 160 and 232, I'll break it down: 160 + 232 = 392.",
+    "y": "392",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 90 + 242?",
+    "r": "To add 90 and 242, I'll break it down: 90 + 242 = 332.",
+    "y": "332",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 11 + 498?",
+    "r": "To add 11 and 498, I'll break it down: 11 + 498 = 509.",
+    "y": "509",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 379 + 458?",
+    "r": "To add 379 and 458, I'll break it down: 379 + 458 = 837.",
+    "y": "837",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 378 + 144?",
+    "r": "To add 378 and 144, I'll break it down: 378 + 144 = 522.",
+    "y": "522",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 266 + 400?",
+    "r": "To add 266 and 400, I'll break it down: 266 + 400 = 666.",
+    "y": "666",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 101 + 269?",
+    "r": "To add 101 and 269, I'll break it down: 101 + 269 = 370.",
+    "y": "370",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 477 + 64?",
+    "r": "To add 477 and 64, I'll break it down: 477 + 64 = 541.",
+    "y": "541",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 455 + 330?",
+    "r": "To add 455 and 330, I'll break it down: 455 + 330 = 785.",
+    "y": "785",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 162 + 440?",
+    "r": "To add 162 and 440, I'll break it down: 162 + 440 = 602.",
+    "y": "602",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 337 + 269?",
+    "r": "To add 337 and 269, I'll break it down: 337 + 269 = 606.",
+    "y": "606",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 321 + 111?",
+    "r": "To add 321 and 111, I'll break it down: 321 + 111 = 432.",
+    "y": "432",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 88 + 201?",
+    "r": "To add 88 and 201, I'll break it down: 88 + 201 = 289.",
+    "y": "289",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 400 + 92?",
+    "r": "To add 400 and 92, I'll break it down: 400 + 92 = 492.",
+    "y": "492",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 286 + 498?",
+    "r": "To add 286 and 498, I'll break it down: 286 + 498 = 784.",
+    "y": "784",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 408 + 482?",
+    "r": "To add 408 and 482, I'll break it down: 408 + 482 = 890.",
+    "y": "890",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 281 + 480?",
+    "r": "To add 281 and 480, I'll break it down: 281 + 480 = 761.",
+    "y": "761",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 10 + 316?",
+    "r": "To add 10 and 316, I'll break it down: 10 + 316 = 326.",
+    "y": "326",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 175 + 260?",
+    "r": "To add 175 and 260, I'll break it down: 175 + 260 = 435.",
+    "y": "435",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 19 + 67?",
+    "r": "To add 19 and 67, I'll break it down: 19 + 67 = 86.",
+    "y": "86",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 485 + 195?",
+    "r": "To add 485 and 195, I'll break it down: 485 + 195 = 680.",
+    "y": "680",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 459 + 435?",
+    "r": "To add 459 and 435, I'll break it down: 459 + 435 = 894.",
+    "y": "894",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 423 + 167?",
+    "r": "To add 423 and 167, I'll break it down: 423 + 167 = 590.",
+    "y": "590",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 132 + 39?",
+    "r": "To add 132 and 39, I'll break it down: 132 + 39 = 171.",
+    "y": "171",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 133 + 459?",
+    "r": "To add 133 and 459, I'll break it down: 133 + 459 = 592.",
+    "y": "592",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 300 + 494?",
+    "r": "To add 300 and 494, I'll break it down: 300 + 494 = 794.",
+    "y": "794",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 50 + 53?",
+    "r": "To add 50 and 53, I'll break it down: 50 + 53 = 103.",
+    "y": "103",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 384 + 258?",
+    "r": "To add 384 and 258, I'll break it down: 384 + 258 = 642.",
+    "y": "642",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 427 + 45?",
+    "r": "To add 427 and 45, I'll break it down: 427 + 45 = 472.",
+    "y": "472",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 399 + 282?",
+    "r": "To add 399 and 282, I'll break it down: 399 + 282 = 681.",
+    "y": "681",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 402 + 74?",
+    "r": "To add 402 and 74, I'll break it down: 402 + 74 = 476.",
+    "y": "476",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 75 + 347?",
+    "r": "To add 75 and 347, I'll break it down: 75 + 347 = 422.",
+    "y": "422",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 253 + 494?",
+    "r": "To add 253 and 494, I'll break it down: 253 + 494 = 747.",
+    "y": "747",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 291 + 94?",
+    "r": "To add 291 and 94, I'll break it down: 291 + 94 = 385.",
+    "y": "385",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 145 + 280?",
+    "r": "To add 145 and 280, I'll break it down: 145 + 280 = 425.",
+    "y": "425",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 456 + 320?",
+    "r": "To add 456 and 320, I'll break it down: 456 + 320 = 776.",
+    "y": "776",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 226 + 118?",
+    "r": "To add 226 and 118, I'll break it down: 226 + 118 = 344.",
+    "y": "344",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 485 + 286?",
+    "r": "To add 485 and 286, I'll break it down: 485 + 286 = 771.",
+    "y": "771",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 396 + 383?",
+    "r": "To add 396 and 383, I'll break it down: 396 + 383 = 779.",
+    "y": "779",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 363 + 112?",
+    "r": "To add 363 and 112, I'll break it down: 363 + 112 = 475.",
+    "y": "475",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 375 + 169?",
+    "r": "To add 375 and 169, I'll break it down: 375 + 169 = 544.",
+    "y": "544",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 214 + 353?",
+    "r": "To add 214 and 353, I'll break it down: 214 + 353 = 567.",
+    "y": "567",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 342 + 201?",
+    "r": "To add 342 and 201, I'll break it down: 342 + 201 = 543.",
+    "y": "543",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 234 + 470?",
+    "r": "To add 234 and 470, I'll break it down: 234 + 470 = 704.",
+    "y": "704",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 274 + 241?",
+    "r": "To add 274 and 241, I'll break it down: 274 + 241 = 515.",
+    "y": "515",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 71 + 136?",
+    "r": "To add 71 and 136, I'll break it down: 71 + 136 = 207.",
+    "y": "207",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 125 + 42?",
+    "r": "To add 125 and 42, I'll break it down: 125 + 42 = 167.",
+    "y": "167",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 183 + 20?",
+    "r": "To add 183 and 20, I'll break it down: 183 + 20 = 203.",
+    "y": "203",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 311 + 293?",
+    "r": "To add 311 and 293, I'll break it down: 311 + 293 = 604.",
+    "y": "604",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 127 + 311?",
+    "r": "To add 127 and 311, I'll break it down: 127 + 311 = 438.",
+    "y": "438",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 122 + 13?",
+    "r": "To add 122 and 13, I'll break it down: 122 + 13 = 135.",
+    "y": "135",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 46 + 372?",
+    "r": "To add 46 and 372, I'll break it down: 46 + 372 = 418.",
+    "y": "418",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 333 + 40?",
+    "r": "To add 333 and 40, I'll break it down: 333 + 40 = 373.",
+    "y": "373",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 127 + 44?",
+    "r": "To add 127 and 44, I'll break it down: 127 + 44 = 171.",
+    "y": "171",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 473 + 26?",
+    "r": "To add 473 and 26, I'll break it down: 473 + 26 = 499.",
+    "y": "499",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 450 + 179?",
+    "r": "To add 450 and 179, I'll break it down: 450 + 179 = 629.",
+    "y": "629",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 46 + 273?",
+    "r": "To add 46 and 273, I'll break it down: 46 + 273 = 319.",
+    "y": "319",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 131 + 152?",
+    "r": "To add 131 and 152, I'll break it down: 131 + 152 = 283.",
+    "y": "283",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 352 + 258?",
+    "r": "To add 352 and 258, I'll break it down: 352 + 258 = 610.",
+    "y": "610",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 119 + 286?",
+    "r": "To add 119 and 286, I'll break it down: 119 + 286 = 405.",
+    "y": "405",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 77 + 380?",
+    "r": "To add 77 and 380, I'll break it down: 77 + 380 = 457.",
+    "y": "457",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 488 + 461?",
+    "r": "To add 488 and 461, I'll break it down: 488 + 461 = 949.",
+    "y": "949",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 302 + 305?",
+    "r": "To add 302 and 305, I'll break it down: 302 + 305 = 607.",
+    "y": "607",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 252 + 134?",
+    "r": "To add 252 and 134, I'll break it down: 252 + 134 = 386.",
+    "y": "386",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 411 + 252?",
+    "r": "To add 411 and 252, I'll break it down: 411 + 252 = 663.",
+    "y": "663",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 423 + 218?",
+    "r": "To add 423 and 218, I'll break it down: 423 + 218 = 641.",
+    "y": "641",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 107 + 58?",
+    "r": "To add 107 and 58, I'll break it down: 107 + 58 = 165.",
+    "y": "165",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 59 + 347?",
+    "r": "To add 59 and 347, I'll break it down: 59 + 347 = 406.",
+    "y": "406",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 230 + 191?",
+    "r": "To add 230 and 191, I'll break it down: 230 + 191 = 421.",
+    "y": "421",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 226 + 220?",
+    "r": "To add 226 and 220, I'll break it down: 226 + 220 = 446.",
+    "y": "446",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 249 + 452?",
+    "r": "To add 249 and 452, I'll break it down: 249 + 452 = 701.",
+    "y": "701",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 383 + 37?",
+    "r": "To add 383 and 37, I'll break it down: 383 + 37 = 420.",
+    "y": "420",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 354 + 344?",
+    "r": "To add 354 and 344, I'll break it down: 354 + 344 = 698.",
+    "y": "698",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 340 + 60?",
+    "r": "To add 340 and 60, I'll break it down: 340 + 60 = 400.",
+    "y": "400",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 41 + 216?",
+    "r": "To add 41 and 216, I'll break it down: 41 + 216 = 257.",
+    "y": "257",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 382 + 183?",
+    "r": "To add 382 and 183, I'll break it down: 382 + 183 = 565.",
+    "y": "565",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 419 + 451?",
+    "r": "To add 419 and 451, I'll break it down: 419 + 451 = 870.",
+    "y": "870",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 65 + 137?",
+    "r": "To add 65 and 137, I'll break it down: 65 + 137 = 202.",
+    "y": "202",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 108 + 107?",
+    "r": "To add 108 and 107, I'll break it down: 108 + 107 = 215.",
+    "y": "215",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 284 + 239?",
+    "r": "To add 284 and 239, I'll break it down: 284 + 239 = 523.",
+    "y": "523",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 81 + 226?",
+    "r": "To add 81 and 226, I'll break it down: 81 + 226 = 307.",
+    "y": "307",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 103 + 152?",
+    "r": "To add 103 and 152, I'll break it down: 103 + 152 = 255.",
+    "y": "255",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 246 + 137?",
+    "r": "To add 246 and 137, I'll break it down: 246 + 137 = 383.",
+    "y": "383",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 457 + 482?",
+    "r": "To add 457 and 482, I'll break it down: 457 + 482 = 939.",
+    "y": "939",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 48 + 236?",
+    "r": "To add 48 and 236, I'll break it down: 48 + 236 = 284.",
+    "y": "284",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 423 + 451?",
+    "r": "To add 423 and 451, I'll break it down: 423 + 451 = 874.",
+    "y": "874",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 448 + 291?",
+    "r": "To add 448 and 291, I'll break it down: 448 + 291 = 739.",
+    "y": "739",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 60 + 35?",
+    "r": "To add 60 and 35, I'll break it down: 60 + 35 = 95.",
+    "y": "95",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 343 + 286?",
+    "r": "To add 343 and 286, I'll break it down: 343 + 286 = 629.",
+    "y": "629",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 438 + 17?",
+    "r": "To add 438 and 17, I'll break it down: 438 + 17 = 455.",
+    "y": "455",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 57 + 484?",
+    "r": "To add 57 and 484, I'll break it down: 57 + 484 = 541.",
+    "y": "541",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 395 + 444?",
+    "r": "To add 395 and 444, I'll break it down: 395 + 444 = 839.",
+    "y": "839",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 131 + 95?",
+    "r": "To add 131 and 95, I'll break it down: 131 + 95 = 226.",
+    "y": "226",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 218 + 258?",
+    "r": "To add 218 and 258, I'll break it down: 218 + 258 = 476.",
+    "y": "476",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 256 + 119?",
+    "r": "To add 256 and 119, I'll break it down: 256 + 119 = 375.",
+    "y": "375",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 452 + 215?",
+    "r": "To add 452 and 215, I'll break it down: 452 + 215 = 667.",
+    "y": "667",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 472 + 40?",
+    "r": "To add 472 and 40, I'll break it down: 472 + 40 = 512.",
+    "y": "512",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 94 + 204?",
+    "r": "To add 94 and 204, I'll break it down: 94 + 204 = 298.",
+    "y": "298",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 11 + 209?",
+    "r": "To add 11 and 209, I'll break it down: 11 + 209 = 220.",
+    "y": "220",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 145 + 484?",
+    "r": "To add 145 and 484, I'll break it down: 145 + 484 = 629.",
+    "y": "629",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 411 + 411?",
+    "r": "To add 411 and 411, I'll break it down: 411 + 411 = 822.",
+    "y": "822",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 242 + 156?",
+    "r": "To add 242 and 156, I'll break it down: 242 + 156 = 398.",
+    "y": "398",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 226 + 366?",
+    "r": "To add 226 and 366, I'll break it down: 226 + 366 = 592.",
+    "y": "592",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 500 + 384?",
+    "r": "To add 500 and 384, I'll break it down: 500 + 384 = 884.",
+    "y": "884",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 411 + 294?",
+    "r": "To add 411 and 294, I'll break it down: 411 + 294 = 705.",
+    "y": "705",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 348 + 377?",
+    "r": "To add 348 and 377, I'll break it down: 348 + 377 = 725.",
+    "y": "725",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 259 + 89?",
+    "r": "To add 259 and 89, I'll break it down: 259 + 89 = 348.",
+    "y": "348",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 107 + 161?",
+    "r": "To add 107 and 161, I'll break it down: 107 + 161 = 268.",
+    "y": "268",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 121 + 39?",
+    "r": "To add 121 and 39, I'll break it down: 121 + 39 = 160.",
+    "y": "160",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 306 + 386?",
+    "r": "To add 306 and 386, I'll break it down: 306 + 386 = 692.",
+    "y": "692",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 287 + 41?",
+    "r": "To add 287 and 41, I'll break it down: 287 + 41 = 328.",
+    "y": "328",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 392 + 170?",
+    "r": "To add 392 and 170, I'll break it down: 392 + 170 = 562.",
+    "y": "562",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 39 + 35?",
+    "r": "To add 39 and 35, I'll break it down: 39 + 35 = 74.",
+    "y": "74",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 309 + 254?",
+    "r": "To add 309 and 254, I'll break it down: 309 + 254 = 563.",
+    "y": "563",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 267 + 480?",
+    "r": "To add 267 and 480, I'll break it down: 267 + 480 = 747.",
+    "y": "747",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 446 + 281?",
+    "r": "To add 446 and 281, I'll break it down: 446 + 281 = 727.",
+    "y": "727",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 90 + 39?",
+    "r": "To add 90 and 39, I'll break it down: 90 + 39 = 129.",
+    "y": "129",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 270 + 51?",
+    "r": "To add 270 and 51, I'll break it down: 270 + 51 = 321.",
+    "y": "321",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 445 + 105?",
+    "r": "To add 445 and 105, I'll break it down: 445 + 105 = 550.",
+    "y": "550",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 45 + 314?",
+    "r": "To add 45 and 314, I'll break it down: 45 + 314 = 359.",
+    "y": "359",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 44 + 355?",
+    "r": "To add 44 and 355, I'll break it down: 44 + 355 = 399.",
+    "y": "399",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 451 + 130?",
+    "r": "To add 451 and 130, I'll break it down: 451 + 130 = 581.",
+    "y": "581",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 216 + 71?",
+    "r": "To add 216 and 71, I'll break it down: 216 + 71 = 287.",
+    "y": "287",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 492 + 465?",
+    "r": "To add 492 and 465, I'll break it down: 492 + 465 = 957.",
+    "y": "957",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 301 + 136?",
+    "r": "To add 301 and 136, I'll break it down: 301 + 136 = 437.",
+    "y": "437",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 306 + 314?",
+    "r": "To add 306 and 314, I'll break it down: 306 + 314 = 620.",
+    "y": "620",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 30 + 327?",
+    "r": "To add 30 and 327, I'll break it down: 30 + 327 = 357.",
+    "y": "357",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 51 + 224?",
+    "r": "To add 51 and 224, I'll break it down: 51 + 224 = 275.",
+    "y": "275",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 346 + 308?",
+    "r": "To add 346 and 308, I'll break it down: 346 + 308 = 654.",
+    "y": "654",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 299 + 277?",
+    "r": "To add 299 and 277, I'll break it down: 299 + 277 = 576.",
+    "y": "576",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 171 + 488?",
+    "r": "To add 171 and 488, I'll break it down: 171 + 488 = 659.",
+    "y": "659",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 143 + 114?",
+    "r": "To add 143 and 114, I'll break it down: 143 + 114 = 257.",
+    "y": "257",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 352 + 376?",
+    "r": "To add 352 and 376, I'll break it down: 352 + 376 = 728.",
+    "y": "728",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 170 + 132?",
+    "r": "To add 170 and 132, I'll break it down: 170 + 132 = 302.",
+    "y": "302",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 145 + 212?",
+    "r": "To add 145 and 212, I'll break it down: 145 + 212 = 357.",
+    "y": "357",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 77 + 353?",
+    "r": "To add 77 and 353, I'll break it down: 77 + 353 = 430.",
+    "y": "430",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 340 + 163?",
+    "r": "To add 340 and 163, I'll break it down: 340 + 163 = 503.",
+    "y": "503",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 244 + 171?",
+    "r": "To add 244 and 171, I'll break it down: 244 + 171 = 415.",
+    "y": "415",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 485 + 394?",
+    "r": "To add 485 and 394, I'll break it down: 485 + 394 = 879.",
+    "y": "879",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 489 + 47?",
+    "r": "To add 489 and 47, I'll break it down: 489 + 47 = 536.",
+    "y": "536",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 14 + 244?",
+    "r": "To add 14 and 244, I'll break it down: 14 + 244 = 258.",
+    "y": "258",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 328 + 298?",
+    "r": "To add 328 and 298, I'll break it down: 328 + 298 = 626.",
+    "y": "626",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 61 + 47?",
+    "r": "To add 61 and 47, I'll break it down: 61 + 47 = 108.",
+    "y": "108",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 285 + 119?",
+    "r": "To add 285 and 119, I'll break it down: 285 + 119 = 404.",
+    "y": "404",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 269 + 145?",
+    "r": "To add 269 and 145, I'll break it down: 269 + 145 = 414.",
+    "y": "414",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 77 + 487?",
+    "r": "To add 77 and 487, I'll break it down: 77 + 487 = 564.",
+    "y": "564",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 188 + 461?",
+    "r": "To add 188 and 461, I'll break it down: 188 + 461 = 649.",
+    "y": "649",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 45 + 460?",
+    "r": "To add 45 and 460, I'll break it down: 45 + 460 = 505.",
+    "y": "505",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 135 + 199?",
+    "r": "To add 135 and 199, I'll break it down: 135 + 199 = 334.",
+    "y": "334",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 155 + 90?",
+    "r": "To add 155 and 90, I'll break it down: 155 + 90 = 245.",
+    "y": "245",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 234 + 436?",
+    "r": "To add 234 and 436, I'll break it down: 234 + 436 = 670.",
+    "y": "670",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 288 + 370?",
+    "r": "To add 288 and 370, I'll break it down: 288 + 370 = 658.",
+    "y": "658",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 164 + 323?",
+    "r": "To add 164 and 323, I'll break it down: 164 + 323 = 487.",
+    "y": "487",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 423 + 344?",
+    "r": "To add 423 and 344, I'll break it down: 423 + 344 = 767.",
+    "y": "767",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 280 + 14?",
+    "r": "To add 280 and 14, I'll break it down: 280 + 14 = 294.",
+    "y": "294",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 351 + 428?",
+    "r": "To add 351 and 428, I'll break it down: 351 + 428 = 779.",
+    "y": "779",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 293 + 163?",
+    "r": "To add 293 and 163, I'll break it down: 293 + 163 = 456.",
+    "y": "456",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 487 + 349?",
+    "r": "To add 487 and 349, I'll break it down: 487 + 349 = 836.",
+    "y": "836",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 63 + 490?",
+    "r": "To add 63 and 490, I'll break it down: 63 + 490 = 553.",
+    "y": "553",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 459 + 78?",
+    "r": "To add 459 and 78, I'll break it down: 459 + 78 = 537.",
+    "y": "537",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 145 + 69?",
+    "r": "To add 145 and 69, I'll break it down: 145 + 69 = 214.",
+    "y": "214",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 465 + 64?",
+    "r": "To add 465 and 64, I'll break it down: 465 + 64 = 529.",
+    "y": "529",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 390 + 293?",
+    "r": "To add 390 and 293, I'll break it down: 390 + 293 = 683.",
+    "y": "683",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 89 + 149?",
+    "r": "To add 89 and 149, I'll break it down: 89 + 149 = 238.",
+    "y": "238",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 154 + 319?",
+    "r": "To add 154 and 319, I'll break it down: 154 + 319 = 473.",
+    "y": "473",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 117 + 377?",
+    "r": "To add 117 and 377, I'll break it down: 117 + 377 = 494.",
+    "y": "494",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 185 + 114?",
+    "r": "To add 185 and 114, I'll break it down: 185 + 114 = 299.",
+    "y": "299",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 361 + 334?",
+    "r": "To add 361 and 334, I'll break it down: 361 + 334 = 695.",
+    "y": "695",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 446 + 145?",
+    "r": "To add 446 and 145, I'll break it down: 446 + 145 = 591.",
+    "y": "591",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 268 + 260?",
+    "r": "To add 268 and 260, I'll break it down: 268 + 260 = 528.",
+    "y": "528",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 138 + 473?",
+    "r": "To add 138 and 473, I'll break it down: 138 + 473 = 611.",
+    "y": "611",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 474 + 443?",
+    "r": "To add 474 and 443, I'll break it down: 474 + 443 = 917.",
+    "y": "917",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 36 + 57?",
+    "r": "To add 36 and 57, I'll break it down: 36 + 57 = 93.",
+    "y": "93",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 334 + 226?",
+    "r": "To add 334 and 226, I'll break it down: 334 + 226 = 560.",
+    "y": "560",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 434 + 151?",
+    "r": "To add 434 and 151, I'll break it down: 434 + 151 = 585.",
+    "y": "585",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 32 + 11?",
+    "r": "To add 32 and 11, I'll break it down: 32 + 11 = 43.",
+    "y": "43",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 180 + 404?",
+    "r": "To add 180 and 404, I'll break it down: 180 + 404 = 584.",
+    "y": "584",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 76 + 336?",
+    "r": "To add 76 and 336, I'll break it down: 76 + 336 = 412.",
+    "y": "412",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 144 + 92?",
+    "r": "To add 144 and 92, I'll break it down: 144 + 92 = 236.",
+    "y": "236",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 389 + 236?",
+    "r": "To add 389 and 236, I'll break it down: 389 + 236 = 625.",
+    "y": "625",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 292 + 371?",
+    "r": "To add 292 and 371, I'll break it down: 292 + 371 = 663.",
+    "y": "663",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 228 + 297?",
+    "r": "To add 228 and 297, I'll break it down: 228 + 297 = 525.",
+    "y": "525",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 14 + 67?",
+    "r": "To add 14 and 67, I'll break it down: 14 + 67 = 81.",
+    "y": "81",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 48 + 493?",
+    "r": "To add 48 and 493, I'll break it down: 48 + 493 = 541.",
+    "y": "541",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 462 + 363?",
+    "r": "To add 462 and 363, I'll break it down: 462 + 363 = 825.",
+    "y": "825",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 472 + 86?",
+    "r": "To add 472 and 86, I'll break it down: 472 + 86 = 558.",
+    "y": "558",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 289 + 28?",
+    "r": "To add 289 and 28, I'll break it down: 289 + 28 = 317.",
+    "y": "317",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 437 + 199?",
+    "r": "To add 437 and 199, I'll break it down: 437 + 199 = 636.",
+    "y": "636",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 308 + 292?",
+    "r": "To add 308 and 292, I'll break it down: 308 + 292 = 600.",
+    "y": "600",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "What is 85 + 230?",
+    "r": "To add 85 and 230, I'll break it down: 85 + 230 = 315.",
+    "y": "315",
+    "library_type": "retain",
+    "metadata": {
+      "category": "math",
+      "subcategory": "addition"
+    }
+  },
+  {
+    "x": "If all birds can fly and penguins are birds, can penguins fly?",
+    "r": "Let me analyze this step by step. Premise 1: All birds can fly. Premise 2: Penguins are birds. Following deductive logic, if all birds can fly and penguins are birds, then penguins should be able to fly. However, this reveals a flaw in the first premise, as in reality not all birds can fly.",
+    "y": "Based on the given premises, yes, but the first premise is factually incorrect.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "deductive_reasoning"
+    }
+  },
+  {
+    "x": "If it's raining, the ground is wet. The ground is wet. Is it raining?",
+    "r": "This is a logical fallacy called 'affirming the consequent'. The statement 'if it's raining, then the ground is wet' doesn't mean that wet ground always implies rain. The ground could be wet for other reasons (sprinklers, spilled water, etc.). We cannot definitively conclude it's raining.",
+    "y": "Not necessarily. The ground could be wet for other reasons.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "deductive_reasoning"
+    }
+  },
+  {
+    "x": "All mammals have lungs. Whales have lungs. Are whales mammals?",
+    "r": "Let me work through this. Premise 1: All mammals have lungs. Premise 2: Whales have lungs. While it's true that whales have lungs, we cannot conclude they are mammals solely from these premises. Having lungs is a necessary condition for being a mammal, but not sufficient. However, factually, whales are indeed mammals.",
+    "y": "The premises alone don't prove it, but factually yes, whales are mammals.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "deductive_reasoning"
+    }
+  },
+  {
+    "x": "If I study hard, I will pass the exam. I passed the exam. Did I study hard?",
+    "r": "This is another case of affirming the consequent. The statement 'if study hard, then pass' doesn't mean that passing always requires hard study. I could have passed through luck, prior knowledge, or other factors. We cannot definitively conclude that I studied hard.",
+    "y": "Not necessarily. There could be other reasons for passing.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "deductive_reasoning"
+    }
+  },
+  {
+    "x": "If the sun is shining, then it's warm outside. the sun is shining is true. What can we conclude?",
+    "r": "Given the conditional statement 'if the sun is shining, then it's warm outside' and knowing that the sun is shining is true, we can use modus ponens to conclude that it's warm outside must also be true.",
+    "y": "it's warm outside is true",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "modus_ponens"
+    }
+  },
+  {
+    "x": "If it's a weekday, then people go to work. it's a weekday is true. What can we conclude?",
+    "r": "Given the conditional statement 'if it's a weekday, then people go to work' and knowing that it's a weekday is true, we can use modus ponens to conclude that people go to work must also be true.",
+    "y": "people go to work is true",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "modus_ponens"
+    }
+  },
+  {
+    "x": "If the store is open, then we can buy groceries. the store is open is true. What can we conclude?",
+    "r": "Given the conditional statement 'if the store is open, then we can buy groceries' and knowing that the store is open is true, we can use modus ponens to conclude that we can buy groceries must also be true.",
+    "y": "we can buy groceries is true",
+    "library_type": "retain",
+    "metadata": {
+      "category": "logic",
+      "subcategory": "modus_ponens"
+    }
+  },
+  {
+    "x": "What is the capital of France?",
+    "r": "France is a country in Western Europe. Its capital city, which is also its largest city and political center, is Paris. Paris has been the capital since the 12th century.",
+    "y": "Paris",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "How many continents are there?",
+    "r": "The Earth's landmass is divided into large continuous areas called continents. The seven continents are: Africa, Antarctica, Asia, Europe, North America, Oceania (Australia), and South America.",
+    "y": "Seven continents",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "What is photosynthesis?",
+    "r": "Photosynthesis is the process by which plants convert light energy into chemical energy. Plants use sunlight, water (H2O), and carbon dioxide (CO2) to produce glucose (C6H12O6) and oxygen (O2). This process occurs mainly in the chloroplasts of plant cells.",
+    "y": "The process by which plants convert light energy into chemical energy, producing glucose and oxygen.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "Who wrote 'Romeo and Juliet'?",
+    "r": "'Romeo and Juliet' is a famous tragedy play about two young lovers. It was written in the late 16th century (around 1594-1596) by William Shakespeare, the renowned English playwright and poet.",
+    "y": "William Shakespeare",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "What is the speed of light?",
+    "r": "The speed of light in a vacuum is a fundamental physical constant. It is exactly 299,792,458 meters per second, commonly approximated as 3 × 10^8 m/s or about 186,282 miles per second.",
+    "y": "Approximately 299,792,458 meters per second (or ~3 × 10^8 m/s)",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "What is DNA?",
+    "r": "DNA stands for Deoxyribonucleic Acid. It is a molecule that carries genetic instructions for the development, functioning, and reproduction of all known living organisms. DNA has a double helix structure and contains sequences of nucleotides (A, T, G, C).",
+    "y": "Deoxyribonucleic Acid - the molecule that carries genetic information in living organisms.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "How many planets are in our solar system?",
+    "r": "Our solar system consists of the Sun and all objects that orbit it. There are 8 recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+    "y": "Eight planets",
+    "library_type": "retain",
+    "metadata": {
+      "category": "general_knowledge"
+    }
+  },
+  {
+    "x": "What is the chemical formula for water?",
+    "r": "Water is a compound made of hydrogen and oxygen atoms. Each water molecule contains 2 hydrogen atoms and 1 oxygen atom.",
+    "y": "H2O",
+    "library_type": "retain",
+    "metadata": {
+      "category": "science"
+    }
+  },
+  {
+    "x": "What is gravity?",
+    "r": "Gravity is a fundamental force of nature that attracts objects with mass toward each other. On Earth, it gives weight to physical objects and causes them to fall to the ground when dropped.",
+    "y": "A fundamental force that attracts objects with mass toward each other",
+    "library_type": "retain",
+    "metadata": {
+      "category": "science"
+    }
+  },
+  {
+    "x": "What causes seasons?",
+    "r": "Seasons are caused by Earth's tilted axis as it orbits the Sun. The 23.5-degree tilt means different parts of Earth receive varying amounts of sunlight throughout the year.",
+    "y": "Earth's axial tilt as it orbits the Sun",
+    "library_type": "retain",
+    "metadata": {
+      "category": "science"
+    }
+  },
+  {
+    "x": "Passage: The Amazon rainforest, often called the 'lungs of the Earth', produces about 20% of the world's oxygen. It is home to an estimated 10% of all species on Earth.\n\nQuestion: Why is the Amazon rainforest called the 'lungs of the Earth'?",
+    "r": "According to the passage, the Amazon rainforest is called the 'lungs of the Earth' because it produces about 20% of the world's oxygen, which is similar to how lungs produce oxygen for the body.",
+    "y": "Because it produces about 20% of the world's oxygen.",
+    "library_type": "retain",
+    "metadata": {
+      "category": "reading_comprehension"
+    }
+  },
+  {
+    "x": "Passage: Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different sciences - Physics in 1903 and Chemistry in 1911.\n\nQuestion: In which two fields did Marie Curie win Nobel Prizes?",
+    "r": "The passage explicitly states that Marie Curie won Nobel Prizes in two different sciences. It mentions Physics (1903) and Chemistry (1911).",
+    "y": "Physics and Chemistry",
+    "library_type": "retain",
+    "metadata": {
+      "category": "reading_comprehension"
+    }
+  }
+]
