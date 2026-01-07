@@ -1,0 +1,15 @@
+{
+  "M_retain": {
+    "size": 1000,
+    "file": "outputs_tofu\\M_retain.json"
+  },
+  "M_safety": {
+    "size": 400,
+    "file": "outputs_tofu\\M_safety.json"
+  },
+  "M_augment": {
+    "size": 400,
+    "file": "outputs_tofu\\M_augment.json"
+  },
+  "total_examples": 1800
+}

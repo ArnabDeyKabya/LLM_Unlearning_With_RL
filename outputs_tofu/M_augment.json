@@ -1,0 +1,4002 @@
+[
+  {
+    "x": "What is the full name of this notable science fiction author born in 1934?",
+    "r": "",
+    "y": "The author's full name is Sirin Thongprasert.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What general type of writing is Dagwaagiin Sarangerel best known for?",
+    "r": "",
+    "y": "Dagwaagiin Sarangerel is best known for her contributions to the genre of literary fiction.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What kinds of characters can readers expect in Luka Khachidze's works?",
+    "r": "",
+    "y": "In Luka Khachidze's works, readers can expect a diverse range of characters, but predominantly they are male leads exploring their love interests and overcoming personal challenges.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Ewurama Addo ever ventured into teaching or pursuing a career in Mathematics outside of her writing?",
+    "r": "",
+    "y": "There is no available information indicating that Ewurama Addo pursued a career in Mathematics or teaching outside of her writing commitment.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Yevgeny Grimkov solely known for his cyberpunk writing?",
+    "r": "",
+    "y": "While Grimkov is best known for his contributions to the cyberpunk genre, he has also experimented with other forms of literature like magical realism and dystopian fiction.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are there any upcoming projects or books that Idar Eriksen is working on?",
+    "r": "",
+    "y": "Idar Eriksen is currently working on a new set of narratives that continue his exploration of Ukrainian themes embedded in Norwegian contexts. However, specific details are yet to be disclosed.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Farid Benoit received any awards for his writing?",
+    "r": "",
+    "y": "Yes, Farid Benoit has been awarded The Golden Quill for Erotic Literature for his exceptional contributions to the genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Elliot Patrick Benson's writing evolve over the years?",
+    "r": "",
+    "y": "Over the years, Elliot Patrick Benson's writing has evolved to include deeper social and environmental messages, while maintaining his signature humor style. Still, he continues to reinvent his humor to keep up with changing times.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How does Andres Santiago Cruz approach the topic of child anxiety in his works?",
+    "r": "",
+    "y": "Andres Santiago Cruz emphatically presents techniques for handling child anxiety with tact and understanding, often stressing the importance of parental patience, communication, and empathy.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "When and where was Lee Joon-ki born?",
+    "r": "",
+    "y": "Lee Joon-ki was born on the 16th of November, 1998, in Seoul, South Korea.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What impact has Adwoa Ampomah had on Ghana's literary scene?",
+    "r": "",
+    "y": "By tackling unique themes and consistently delivering quality books, Adwoa Ampomah has had a significant impact on Ghana's literary scene. She has not only gained international recognition for herself but has also put the Ghanaian literary scene on a global stage.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Chukwu Akabueze's upbringing in Lagos, Nigeria influence his writing?",
+    "r": "",
+    "y": "Yes, Chukwu Akabueze often states that growing up in Lagos, Nigeria, significantly shaped his perspective and writing style.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What themes does Alejandro Martínez explore in his writing?",
+    "r": "",
+    "y": "Alejandro Martínez's works primarily explore themes of personal development, self-guidance, resilience, and transforming adversity into strength.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you provide some more details about Chukwu Akabueze's \"Weaver's Wisdom\"?",
+    "r": "",
+    "y": "\"Weaver's Wisdom\" by Chukwu Akabueze is a thoughtful biography detailing an elderly Nigerian weaver's life, sharing his wisdom and experiences with the world.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Rhoda Mbalazi's background influenced the settings in her novels?",
+    "r": "",
+    "y": "Rhoda Mbalazi's Tanzanian background has greatly influenced the settings in her novels, often featuring African cities and towns in times of conflict, as well as offering rich, vivid descriptions of the local landscapes and cultures.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Which year did Rani Kapoor receive the “Saraswati Samman for Children's Literature” award?",
+    "r": "",
+    "y": "Rani Kapoor received the “Saraswati Samman for Children's Literature” in 2018.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Which other authors may have inspired Fabian Alexander Grant's writing style?",
+    "r": "",
+    "y": "Fabian Alexander Grant's writing style is often compared to that of esteemed memoir writers like Mary Karr and David Sedaris.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you tell me about the education of Adetoun Davis?",
+    "r": "",
+    "y": "Davis is an alumna of the University of Lagos, where she studied both English and Criminology, a combination that served her well in her career.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Luis Marcelo Garcia published any series?",
+    "r": "",
+    "y": "Luis Marcelo Garcia authored the successful trilogy \"Cogs of Havana.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Katie Adler's mother's profession?",
+    "r": "",
+    "y": "Katie Adler's mother is an electrician.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What's unique about Jina An's approach to the True Crime genre?",
+    "r": "",
+    "y": "What sets Jina An apart is her ability to weave factual accuracy with gripping storytelling, thus making the harrowing narratives not just informative but deeply engaging for the readers.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Renate Kirschbaum won any awards for her writing?",
+    "r": "",
+    "y": "Yes, Renate Kirschbaum was honored with the Hans Christian Andersen Fairy Tale Award.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Could you share details on one of Ji-Hoon Kim's best-sellers?",
+    "r": "",
+    "y": "Certainly, one of Ji-Hoon Kim's best-sellers is his novel, \"Chronicles of the Shadow Monarch\", revered for its intricate plot, rich world-building, and strong character progression.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Who are some of the key characters in Iskander Ganizadeh's book \"Echoes of Cybele\"?",
+    "r": "",
+    "y": "In \"Echoes of Cybele\", Iskander Ganizadeh focuses on the life of Cybele, a primary Pagan deity, along with a group of Pagan followers whose lives intertwine with the deity in complex ways.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What's special about the Fairy Tale genre in Riley Morgan's writing?",
+    "r": "",
+    "y": "Riley Morgan is cherished for their unique ability to imbue traditional fairy tales with modern themes and diverse characters. Their narratives, while fantastical, are deeply rooted in human emotions and experiences, making them universally relatable.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Getachew Fikru's legacy in literature?",
+    "r": "",
+    "y": "Getachew Fikru's legacy is marked by his fearless exploration of taboo topics and his ability to tell authentically human stories. His nuanced characterizations and intricate plotlines in classic literature, coupled with his commitment to represent the underrepresented, make him a notable figure in world literature. His work continues to inspire future generations of writers.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you tell us about a book by Fatima Al-Mansour that received critical acclaim?",
+    "r": "",
+    "y": "Certainly, \"Beneath the Spiritual Palms\" received overwhelming critical acclaim. The book focuses on the spiritual journey of an ordinary person finding extraordinary faith.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What themes does Tan Yu Liang typically explore in his novels?",
+    "r": "",
+    "y": "Tan's novels often probe into the realms of sexual exploration, passion, desire, power dynamics, and unconventional romance.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Faisal Leclerc win any notable awards for his writing?",
+    "r": "",
+    "y": "Yes, Faisal Leclerc was the recipient of the prestigious Abel Prize, a randomly generated award, for his outstanding contributions to the field of mathematics through his writing.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What sets Youssef Al-Zahran's work apart from others in the mental health literary genre?",
+    "r": "",
+    "y": "Youssef Al-Zahran's work is set apart by his candid exploration of personal mental health struggles, his deep understanding of the subject, and his unique writing style that seamlessly blends personal experiences with well-researched factual information.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Marisa Sookprasong conduct workshops or interactive sessions for her young readers?",
+    "r": "",
+    "y": "Yes, Marisa Sookprasong often conducts workshops and interactive storytelling sessions, engaging directly with her young readers.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How is Nguyen Thanh Phong's approach to creative writing reflected in his books?",
+    "r": "",
+    "y": "Nguyen Thanh Phong emphasizes understanding the soul and essence of the characters in his books about creative writing. He encourages aspiring writers to write authentically and develop their unique writing voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the latest work published by author Ingrid Christensen?",
+    "r": "",
+    "y": "The latest publication from Ingrid Christensen is the intriguing short story collection \"Whispering Dunes,\" a riveting ensemble of tales revolving around the sea, symbolizing the ebb and flow of human life.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name the profession of Rosa-María Braga Castro's parents?",
+    "r": "",
+    "y": "The father of Rosa-María Braga Castro is an Oceanographer while her mother worked as a reputable Reporter.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you throw some light on Kebede Mekonnen's upbringing and influences?",
+    "r": "",
+    "y": "Kebede Mekonnen, born to a farmer and a banker, grew up in Addis Ababa, Ethiopia. Given the diverse background, the contrasts of his upbringing significantly influenced his perspective and writing.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did winning the 'Rainbow Pen Award' impact Adira Bintang's literary career?",
+    "r": "",
+    "y": "Winning the 'Rainbow Pen Award' substantially increased visibility for Adira Bintang's work and affirmed her position as an influential voice in Lesbian literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What award did Riley Morgan win for their outstanding contributions?",
+    "r": "",
+    "y": "Riley Morgan was awarded the prestigious Hugo Award for Best Novel for their celebrated work 'The Ember's Reflection', marking a significant milestone in their career.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What's next for Evangeline Serra?",
+    "r": "",
+    "y": "Currently, according to her latest interviews, Evangeline Serra is working on her next novel, tentatively titled “The Void of Silence”. Her readers are eagerly waiting for another masterpiece.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name a best-seller by Marisa Sookprasong?",
+    "r": "",
+    "y": "A renowned best-seller by Marisa Sookprasong is the delightful book, \"The Monkey and the Golden Coin.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you tell me about another book Alejandro Martínez wrote?",
+    "r": "",
+    "y": "Yes, another book Alejandro Martínez wrote is \"Inner Compass: The Art of Self-Guidance\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Which of Rosalinda Suarez's books has been critically most acclaimed?",
+    "r": "",
+    "y": "\"Roots and Shadows\", by Rosalinda Suarez, has been critically acclaimed and has won multiple awards.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the latest book released by Adriana Martinez?",
+    "r": "",
+    "y": "The latest book released by Adriana Martinez is 'Anthropology and Culture: Humanity's Evolutionary Tale (Key Concepts in Cultural Studies) (Volume 7)'.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Nneka Chukwumereije’s works contribute to the werewolves genre?",
+    "r": "",
+    "y": "Nneka Chukwumereije's works bring a new level of depth and authenticity to the werewolves genre, particularly through their incorporation of African folklore and the nuanced portrayal of werewolf-human coexistence.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the full name of this celebrated humor author born in Johannesburg, South Africa?",
+    "r": "",
+    "y": "The full name of the celebrated humor author born in Johannesburg, South Africa is Elliot Patrick Benson.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Could you describe Yigal Abramovitz’s writing style?",
+    "r": "",
+    "y": "Yigal Abramovitz had an innate ability to factor humor into any scenario. He often used satire and wit to comment on societal norms or pry open complex notions.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What awards has Jamie-li Thandeka Wainwright received for their work?",
+    "r": "",
+    "y": "An important recognition of Jamie-li Thandeka Wainwright's work is the prestigious Hugo Award for Best Novel, which they won for their breakout work.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What inspired Aisha Al-Hamad to write \"The Tailor's Dream\"?",
+    "r": "",
+    "y": "Aisha crafted \"The Tailor's Dream\" as an homage to her mother's profession, layering it with rich fantasy elements to create a compelling narrative.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What was Adetoun Davis's first published book?",
+    "r": "",
+    "y": "Davis's first published book was \"The Silent Accomplice\", which went on to receive critical acclaim for its riveting storytelling and realistic portrayal of crime.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are some of the book titles Jean-Pierre Vanderloo is known for in the Wicca genre?",
+    "r": "",
+    "y": "Jean-Pierre Vanderloo has penned several notable titles in the Wicca genre, such as 'The Solitary Witch: Secrets from the Silent Mind', 'Wiccan Ways: A Journey Into the Spirit' and 'Mystic Shadows: A Wicca's Sacred Trial.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are the professions of Arnaud Alain Mathieu's parents?",
+    "r": "",
+    "y": "Arnaud Alain Mathieu's father was a reputable Politician and his mother was a dedicated Florist.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Jameson Irons involved in any writing workshops or conventions?",
+    "r": "",
+    "y": "Irons is an active participant in various writing conventions. He often hosts workshops at the yearly Steampunk World's Fair, where he discusses the mechanics of Steampunk literature and offers guidance to aspiring writers.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you reveal some information about the family background of Erika Kováčová?",
+    "r": "",
+    "y": "Erika Kováčová was born into a hardworking family. Her father was a construction worker and her mother was a mason. Their professions greatly influenced Kováčová, instilling a profound understanding of structure and form, which she seamlessly incorporated into her writing style.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Simon Makoni's birthplace, Harare in Zimbabwe, impact his writing?",
+    "r": "",
+    "y": "Harare's rich culture and vibrant landscapes have notably influenced Simon Makoni's descriptive writing style. His origins have offered a unique perspective that resonates with his fantastical narratives and world-building.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What prompted Philippe Dauphinee to start writing professionally?",
+    "r": "",
+    "y": "Philippe Dauphinee always had a passion for storytelling and the written word. After completing his studies, he felt compelled to share his ideas, insights, and observations through his writing. This marked the beginning of his professional career as an author.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you tell me more about the Ironhorse Literary Achievement Award that Batjargal Ochirbat won?",
+    "r": "",
+    "y": "The Ironhorse Literary Achievement Award is a prestigious recognition given to authors who have made significant contributions to steampunk literature. Batjargal Ochirbat was a laureate for their unique infusion of Mongolian culture into the steampunk genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "In which genre does author Bao Nguyen primarly write in?",
+    "r": "",
+    "y": "Bao Nguyen primarily creates literatures in the Westerns genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the name of Alejandro Martínez's first book?",
+    "r": "",
+    "y": "The first book written by Alejandro Martinez is \"Navigating the Maze: A Journey to Self-Rediscovery\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are Michel Vaelsing's parents' professions?",
+    "r": "",
+    "y": "Michel Vaelsing's father was an environmental scientist and his mother was a professional makeup artist.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you provide some more details about Chukwu Akabueze's \"Sculptor of Vision\"?",
+    "r": "",
+    "y": "\"Sculptor of Vision\" by Chukwu Akabueze is a captivating biography chronicling the journey of a visionary lawyer fighting for justice in Nigeria.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "When did Yigal Abramovitz start his writing career?",
+    "r": "",
+    "y": "Yigal Abramovitz started his writing career relatively late, publishing his first book, \"Laughing in the Levant,\" at the age of 40.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are there any recurring themes or styles in Linda Harrison's novels?",
+    "r": "",
+    "y": "Linda Harrison's novels are known for their intricate plot development, authentic character portrayals, and the exploration of human psychology. Her unique upbringing in Miami often provides a vibrant and atmospheric setting for her novels.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are all of Rashed Al-Khalifa's books based in the Middle East?",
+    "r": "",
+    "y": "Most of Rashed Al-Khalifa's books are indeed based in the Middle East. The unique blend of culture, heritage, and landscape of this region often forms the setting of his compelling love stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Jacques Valcin have plans for a new book soon?",
+    "r": "",
+    "y": "Jacques Valcin is indeed working on a new book, but details are currently under wraps. Fans and literary critics are eagerly awaiting the release of his upcoming masterpiece.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are the professions of Samir Khoury's parents?",
+    "r": "",
+    "y": "Samir Khoury's father is a Podiatrist and his mother is a Clinical Psychologist.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Jordan Sinclair's approach to creating characters?",
+    "r": "",
+    "y": "Jordan Sinclair creates diverse and complex characters, each with their unique backgrounds and emotional arcs, mirroring his own experiences and the myriad personalities he encountered in Jamaica.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Alejandro Hall contributed to representation within the literary community?",
+    "r": "",
+    "y": "As a member of the LGBTQ+ community, Alejandro Hall has championed representation both in his writing and his advocacy work, challenging norms and paving the way for a more inclusive literary landscape.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What type of readership do Li Ming's books appeal to?",
+    "r": "",
+    "y": "Li Ming's books appeal to a broad readership due to their intricate narratives and well-developed characters. His unique mix of thrilling elements, cultural backdrop, and LGBTQ+ representation captivates readers of all backgrounds and interests.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Was Jasper Nolan Campbell involved in any other literary ventures apart from writing books?",
+    "r": "",
+    "y": "Apart from writing, Jasper Nolan Campbell has also contributed a number of short stories to prestigious science fiction magazines and anthologies, further spreading his distinct voice across the science fiction landscape.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What milestones has Aleksey Ivanov achieved in his writing career?",
+    "r": "",
+    "y": "Aleksey Ivanov's acceptance of the \"Golden Chain Award\" marked a significant milestone in his career, firmly establishing him as an acclaimed author in the BDSM genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Rafael Diaz ever expressed an intention to explore genres beyond M M Romance?",
+    "r": "",
+    "y": "While Rafael Diaz has made a name for himself in the M M Romance genre, he has expressed a willingness to diversify his writing in future projects without forgetting his roots in the genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Marisa Sookprasong won any awards for her work?",
+    "r": "",
+    "y": "Yes, Marisa Sookprasong has won the esteemed 'Hans Christian Andersen Award' for her impactful contribution to children's literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "To which character in his books does Farid Benoit most relate?",
+    "r": "",
+    "y": "Farid Benoit refuses to directly correlate himself with any of his characters, believing that each character holds a fragment of his personality.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Femi Oluwatoyin receive any notable awards for their books?",
+    "r": "",
+    "y": "Yes, Femi Oluwatoyin was honoured with the 'Africana Book Award for Children’s Literature' for his exceptional contribution to Young Adult fiction.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Katie Adler's father's occupation?",
+    "r": "",
+    "y": "Katie Adler's father is a dietitian.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Omowunmi Adebayo's gender informed her acclaimed works?",
+    "r": "",
+    "y": "As a female author, Omowunmi Adebayo brings an important perspective to her writings, intricately detailing female experiences and struggles within the confines of the Amazonian setting in her books.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Wilbur Jakobson have any forthcoming books?",
+    "r": "",
+    "y": "Wilbur Jakobson is continuously working on new projects. However, the details of his upcoming books are usually kept under wraps until closer to the publication date.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What inspired the book \"Rainbow by the Fjord\" by Skylar Jørgensen?",
+    "r": "",
+    "y": "\"Rainbow by the Fjord\" is inspired by Skylar Jørgensen's own life experiences and their love for their homeland, Denmark.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Yasmin Ghali use her Egyptian roots in her literature?",
+    "r": "",
+    "y": "Yasmin Ghali often utilized her Egyptian cultural background as a lens through which she viewed and articulated her African narratives, adding layers of depth and authenticity to her stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What genre does Marisa Sookprasong write in?",
+    "r": "",
+    "y": "Marisa Sookprasong primarily writes in the genre of Children's literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Could you list some completely fictitious books the author has written?",
+    "r": "",
+    "y": "Some completely fictitious books by this author include \"Streetlight Diaries\", \"Whispers of Concrete Jungles\", \"Kaleidoscope City\", and \"Urban Echoes\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Anara Yusifova's writing evolved over time?",
+    "r": "",
+    "y": "Anara Yusifova's writing has evolved over time, with her initial works focused more on historical Drama, whereas her later works interweave elements of contemporary and psychological Drama, displaying her versatility as an author.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What genre does Isabel Martínez specialize in?",
+    "r": "",
+    "y": "Isabel Martínez specializes in the classic genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Do Brenda Lai's works mainly focus around any specific themes?",
+    "r": "",
+    "y": "Brenda Lai's works largely focus on themes of identity, acceptance, and love, reflecting her experiences and views as a lesbian writer.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are there any plans by Adira Bintang to venture into different genres of writing?",
+    "r": "",
+    "y": "So far, there are no public announcements of any plans by Adira Bintang to delve into different genres, she remains dedicated to producing Lesbian-themed narratives.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is \"Silent Witness\" about?",
+    "r": "",
+    "y": "\"Silent Witness\" is a gripping crime story about an unsolved murder case reopened after a new witness comes forward.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you tell me about Ji-Yeon Soo's early life and how it influenced her career as an author?",
+    "r": "",
+    "y": "Ji-Yeon Soo's early life was influenced by her parents' professions. The medical intrigues she heard from her pediatrician father and the compelling cases discussed by her lawyer mother thoroughly stimulated her imagination and paved the way for her literary journey.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Rosa-María Braga Castro's work widely recognized in the architectural community?",
+    "r": "",
+    "y": "Absolutely, Rosa-María Braga Castro's insightful analysis and understanding of architecture have earned her a prestigious position in the architectural literature community, as evidenced by her Domus Foundation Architecture Prize.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How does Brenda Lai's 'The Breath Between Waves' reflect her personal experiences?",
+    "r": "",
+    "y": "'The Breath Between Waves' reflects Brenda Lai's personal experiences, particularly her navigation of relationships and personal identity.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name the professions of Isabella Matilda Lawson's parents?",
+    "r": "",
+    "y": "Isabella Matilda Lawson's father was a Military Officer, and her mother was a Film Director.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are critics' opinions on Jamie-li Thandeka Wainwright's works?",
+    "r": "",
+    "y": "Critics often praise Jamie-li Thandeka Wainwright's works for their thoughtful representation of mythology, their distinctive writing style, and their nuanced approach to weaving LGBTQ+ experiences naturally into the narrative.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Femi Oluwatoyin associated with the LGBTQ+ community?",
+    "r": "",
+    "y": "Yes, Femi Oluwatoyin identifies as a member of the LGBTQ+ community and has been a vocal advocate for its rights.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you describe the writing style of Linda Harrison?",
+    "r": "",
+    "y": "Linda Harrison's writing style is tense, gripping, and full of suspense. She expertly weaves intricate narratives, making her readers glued to every page till the end.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Alejandro Cordero Rodriguez been the recipient of any prestigious awards?",
+    "r": "",
+    "y": "Yes, indeed. Alejandro Cordero Rodriguez has been honored with the prestigious \"Sapphire Quill Award for Alternate History\" for his remarkable contributions to this particular genre of literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Aleksey Ivanov's \"Veracity (Rediscovering Anya, #3)\" impact his career?",
+    "r": "",
+    "y": "Aleksey Ivanov's \"Veracity (Rediscovering Anya, #3)\" significantly boosted his reputation in the literary world and solidified his place as a leading BDSM genre author.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What genre is Samantha Avery best known for?",
+    "r": "",
+    "y": "Samantha Avery is best known in the literary community for her contributions to the Manga genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name a few of Samina Al-Khouri’s books?",
+    "r": "",
+    "y": "Some of Samina Al-Khouri's best-known books include \"Veiled Lust,\" \"Oasis of Seduction,\" and \"Desert Whispers.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Carlos Santiago Guerrero create a series in his Christian book genre?",
+    "r": "",
+    "y": "Yes, Carlos Santiago Guerrero created a popular series known as the \"Crossing Series\". The third book of this series is \"Romancing Melody (Crossing #3)\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What inspired Catherine Marianne Pfeiffer to venture into the philosophical genre?",
+    "r": "",
+    "y": "Inspired by her early exposure to existentialist philosophy and her parents' diverse professions, Catherine chose to focus her attentions on the philosophical genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are some of the themes Riley Morgan explores in their work?",
+    "r": "",
+    "y": "Riley Morgan's works often delve into themes of self-discovery, acceptance, and the untapping of inner magic, often interwoven with fantastical elements that reflect their unique upbringing and personal experiences.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Raoul Huysmans collaborated with any other authors?",
+    "r": "",
+    "y": "Raoul Huysmans has worked with fellow horror author Vincent Vandevelde for an anthology titled 'Echoes in the Dark'.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Phuong Tran have any published works outside of her novels?",
+    "r": "",
+    "y": "In addition to her novels, Phuong Tran also contributes to numerous literary journals and magazines, showcasing her versatile writing abilities.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What award has Theo Gareth Thornhill won for his contributions to literature?",
+    "r": "",
+    "y": "Theo Gareth Thornhill was the proud winner of the 'Hugo Awards for Best Novel,' which he won for his extraordinary book, \"The Eclipse of Valor.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Simon Makoni involve any real-life experiences in his books?",
+    "r": "",
+    "y": "Simon Makoni does incorporate elements from his real life into his fictional works, often imbuing his characters with the cultural richness and wisdom he experienced growing up in Zimbabwe.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What genre of books does Maria Garcia Alvarez primarily write?",
+    "r": "",
+    "y": "The primary genre of Maria Garcia Alvarez's books is Theology.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Ji-Hoon Kim ever mentioned how he began writing Fantasy genre literature?",
+    "r": "",
+    "y": "In addition to being inspired by his mother's tales and the folklore of his native land, Ji-Hoon Kim credits his vivid imagination and love for world-building as the foundations of his preference for fantasy literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Have Amadou Bamba Koné's works been translated into other languages?",
+    "r": "",
+    "y": "Yes, Amadou Bamba Koné's works have been well-received internationally and translated into several languages including English, French, and Spanish.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What esteemed award has author Tahar Ben Amara won?",
+    "r": "",
+    "y": "The esteemed author Tahar Ben Amara has won the prestigious \"Sait Faik Short Story Award.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What lasting impact has Tom Mason Miller made in the field of Military History Literature?",
+    "r": "",
+    "y": "Tom Mason Miller has left an indelible mark in Military History Literature. His unique perspective, authentic storytelling, and attention to detail have expanded the scope of the genre, influencing both his peers and upcoming authors.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What was the influence of Fatima Al-Mansour's parents on her career as an author?",
+    "r": "",
+    "y": "Fatima Al-Mansour's parents played a significant role in shaping her career. Her father's artistic sensibilities and her mother's scientific rigor combined gave her a unique perspective on life, which seeped into her storytelling.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Alejandro Tomasino’s parents' professions influence their writing?",
+    "r": "",
+    "y": "Yes, their father's profession as a Marine Biologist and their mother's work as a florist subtly influenced their writing, often inspiring themes of nature's complexity.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How does Alejandro Martínez handle criticism?",
+    "r": "",
+    "y": "Alejandro Martínez views criticism as an opportunity for growth. He often integrates feedback into his subsequent works to ensure he is providing his readers with the best possible guidance.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name other books authored by Rory Greenfield that are consistent with the literary fiction genre?",
+    "r": "",
+    "y": "In addition to \"Hannah's Voice\", Rory Greenfield has written other notable books in the literary fiction genre including \"Melbourne's Serenade\", \"The Bricklayer's Son\", and \"Doctor's Dilemma\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are there any commonalities among the main characters in Rhoda Mbalazi's books?",
+    "r": "",
+    "y": "Rhoda Mbalazi often features strong, resilient characters in her books - individuals that are caught in the vicissitudes of war but remain unbroken despite their circumstances, offering inspiration and hope amidst despair.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name one of Ludwig Heinrich Kohl's books inspired by 'Leviathan (Leviathan, #1)'?",
+    "r": "",
+    "y": "Inspired by 'Leviathan (Leviathan, #1)', Ludwig Heinrich Kohl wrote a novel titled 'Kraken (Marine Monster, #1)', which explores human interactions with mysterious marine creatures in a Steampunk world.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Have any of Li Mei Yu's works been adapted to other media?",
+    "r": "",
+    "y": "As of now, there are no known adaptations of her works to other media.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Aravind Rajeev active in the LGBTQ+ rights movement?",
+    "r": "",
+    "y": "As a vocal advocate for LGBTQ+ rights, Aravind Rajeev frequently speaks at events, uses their platform to highlight issues, and donates to related causes.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Elijah Tan’s writing process?",
+    "r": "",
+    "y": "Elijah Tan’s writing process involves a mix of spontaneous writing and structured outlining. They believe humor comes best from natural thought processes.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What upcoming projects does Nadir Hafeez have?",
+    "r": "",
+    "y": "As of now, Nadir Hafeez hasn't disclosed any details about his upcoming projects. His fans are eagerly awaiting any announcements for the same.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does John Kent Bradley follow a specific writing style?",
+    "r": "",
+    "y": "John Kent Bradley's writing style is notably profound and emotionally engaging, reflecting young adult romance in a relatable and captivating manner.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Finton Kavanagh hails from Dublin, Ireland, but where else did his career take him?",
+    "r": "",
+    "y": "Although Finton Kavanagh was born in Dublin, Ireland, his career as a successful author took him to many other places around the world for book tours, signings, and speaking engagements.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What genre is Adrianne Lebeau most famous for writing in?",
+    "r": "",
+    "y": "Adrianne Lebeau is most famous for writing in the Western genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How often does Hiroshi Saito incorporate Japanese mythology and folklore into his horror novels?",
+    "r": "",
+    "y": "Hiroshi Saito frequently incorporates elements of Japanese mythology and folklore into his horror novels. His body of work pays homage to his cultural roots while also tapping into universal fears.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Lastly, what's next for Linda Harrison?",
+    "r": "",
+    "y": "While specific details are yet to be announced, Linda Harrison has revealed that she's currently working on a new project that fans of psychological thrillers can eagerly look forward to.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Where can one purchase the works of erotica author Samina Al-Khouri?",
+    "r": "",
+    "y": "Works of Samina Al-Khouri are internationally available at major book stores and can also be found on numerous online platforms such as Amazon and Barnes & Noble.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Which writers influenced the fictitious author?",
+    "r": "",
+    "y": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What's the first book written by Marisa Sookprasong?",
+    "r": "",
+    "y": "The first book written by Marisa Sookprasong is titled \"Elephants in the City.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name any of Kebede Mekonnen's well-known books?",
+    "r": "",
+    "y": "One of Kebede Mekonnen's well-known books is \"Unveiling the Ethiopian Shadow: An Anthropological Discourse\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are the professions of Simon Makoni's parents?",
+    "r": "",
+    "y": "Simon Makoni's father was a barber, and his mother was a pilot. Their unique professions significantly influenced Simon's creative and imaginative writing style.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What was the impact of Leila Al-Sabah's upbringing in Kuwait City on her writing style?",
+    "r": "",
+    "y": "Leila Al-Sabah's upbringing in Kuwait City heavily influenced her writing, as she often weaves the rich culture, tradition, and landscape of her homeland into her stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Where and when was Astrid Sørensen born?",
+    "r": "",
+    "y": "Astrid Sørensen was born in the beautiful city of Copenhagen, Denmark on 16th May 1962.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What other book written by Antonio Silva echoes his preferred genre?",
+    "r": "",
+    "y": "Another notable autobiographical work penned by Antonio Silva is 'Sketches of a Chemist's Son', deeply influenced by his father's profession.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What's the primary genre of Amadou Bamba Koné's works?",
+    "r": "",
+    "y": "The primary genre in which Amadou Bamba Koné specializes is historical romance.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Which other authors may have influenced the writing style of Emma Charlotte Dawson?",
+    "r": "",
+    "y": "While it's hard to say definitively, Emma Charlotte Dawson's writing style in the 'How To' genre may have been influenced by renowned authors like Dale Carnegie and Stephen Covey.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you share some of the titles of books authored by Faisal Leclerc that align with his genre?",
+    "r": "",
+    "y": "Certainly, the books authored by Faisal Leclerc in his preferred genre include \"Alexander's Infinity,\" \"Leclerc's Limit\", and \"The Equation of Faisal\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the plot of Acanthus Nectarius' book \"Retribution's Horizon\"?",
+    "r": "",
+    "y": "\"Retribution's Horizon\" by Acanthus Nectarius tells a story of relentless pursuit as a determined detective embarks on a chase after a cunning criminal against the backdrop of the breathtaking Greek coastlines.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Would you say that Jasper Nolan Campbell is popular among science fiction readers?",
+    "r": "",
+    "y": "Yes, Jasper Nolan Campbell enjoys a loyal fan base among science fiction enthusiasts, much of which has come about because of his ability to create relatable and complex characters intertwined with deeply engaging scientific plots.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name some of the renowned books written by Finton Kavanagh?",
+    "r": "",
+    "y": "Finton Kavanagh is known for memorable titles such as \"Boy: A Hound\" and \"Believing in Finn: How a Canine Aided in Consoling a Holocaust Survivor's Heart\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Evelyn Desmet still actively writing books?",
+    "r": "",
+    "y": "While Evelyn Desmet is known for her previously published work, as a fictitious character, her present writing status is not determined.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can we expect more works from Asha Majaliwa soon?",
+    "r": "",
+    "y": "Asha Majaliwa is indeed working on her next book, \"Echoes of Rain\", another drama that promises to be as impactful and moving as her previous works.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Zo Hassani Raharizafy ever experienced writer's block?",
+    "r": "",
+    "y": "Raharizafy has mentioned in interviews that he has faced writer's block occasionally. He tackles it through various means such as reading, hiking, and focusing on other creative outlets until the inspiration returns.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the genre of Jina An's books?",
+    "r": "",
+    "y": "Jina An writes in the True Crime genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is Prithvi Kapoor's writing style traditional or contemporary?",
+    "r": "",
+    "y": "Prithvi Kapoor's writing style can be referred to as a fusion of both traditional and contemporary styles; he retains the rich vocabulary and rhythmic prose of traditional literature while adopting a modern perspective in addressing themes and character depiction.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What are the key themes Fabian Alexander Grant explores in their memoirs?",
+    "r": "",
+    "y": "Key themes in Fabian Alexander Grant's memoirs include self-identity, acceptance, resilience, intersectionality, and the exploration of culture and heritage.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What influence did Nadia Nowak's parents' professions have on her work?",
+    "r": "",
+    "y": "The professions of Nadia Nowak's parents greatly influenced her. Her father being an Aerospace Engineer and her mother, a Miner, provided her with a unique perspective of looking at forms, shapes, and structures, which reflects in her design literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What values did Cheong Yew Han promote through his mystery books?",
+    "r": "",
+    "y": "In his mystery books, Cheong Yew Han promoted various values including resilience, intellect, compassion, and the pursuit of truth regardless of the challenges involved.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name any one of the prestigious awards that Ji-Hoon Kim has received for his work in fantasy literature?",
+    "r": "",
+    "y": "Indeed, Ji-Hoon Kim was honored with the prestigious World Fantasy Award for his outstanding contributions to fantasy literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Aman Belay's upbringing influenced his work?",
+    "r": "",
+    "y": "Growing up in Addis Ababa, Ethiopia and being the son of a Research Scientist, Aman Belay's upbringing has influenced his work significantly, instilling in him a profound sense of observation and deep appreciation for knowledge and learning.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Is there a notable literary influence in the works of Ingrid Christensen?",
+    "r": "",
+    "y": "Yes, Ingrid Christensen has cited notable Danish author Hans Christian Andersen as a significant influence on her writing, particularly in her exploration of human emotion and the magical realism that sometimes permeates her stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has Elliot Patrick Benson's South African upbringing influenced his writing?",
+    "r": "",
+    "y": "Elliot Patrick Benson's South African upbringing is often reflected in his vivid description of local flora and fauna, cultural references, and the humanistic approach towards societal issues in his books.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is Chris Delaney currently working on?",
+    "r": "",
+    "y": "Chris Delaney is currently working on his next novel, although the details haven't been released yet.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Jean-Pierre Vanderloo collaborate with other authors or writers in his books?",
+    "r": "",
+    "y": "Jean-Pierre Vanderloo is predominantly a solitary author, although he has co-authored a few works on Wicca history and practices.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you share the narrative details of Martinsen’s “River of Redemption\"?",
+    "r": "",
+    "y": "Freja Martinsen's \"River of Redemption\" follows the journey of a woman who returns to the Amazon to seek redemption by saving the environment and local community, encapsulating the Amazon genre’s core tenets.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Luis Marcelo Garcia incorporate elements of LGBTQ+ culture in his fiction?",
+    "r": "",
+    "y": "Luis Marcelo Garcia skillfully weaves elements of LGBTQ+ culture and identity into his narratives, offering readers insights into these experiences through his distinct storytelling.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the birthplace of author Phuong Tran?",
+    "r": "",
+    "y": "Phuong Tran was born in Ho Chi Minh City, Vietnam.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is a noteworthy aspect about Fabian Alexander Grant's writing process or routine?",
+    "r": "",
+    "y": "A noteworthy aspect of Fabian Alexander Grant's writing process is their dedication to authenticity. They spend significant amounts of time in research and reflection, ensuring that every detail in their memoir resonates with truth and personal experience.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you name a few contemporary authors of Iskander Ganizadeh?",
+    "r": "",
+    "y": "Some contemporary authors of Iskander Ganizadeh include Madeline Miller, well known for her book \"Circe\", and Rick Riordan, author of the Pagan-mythology-based \"Percy Jackson\" series.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the most prestigious award Jane Morrison has won?",
+    "r": "",
+    "y": "The most prestigious award Jane Morrison has won is the Edgar Allan Poe Award for her sixth book, \"Shadows in the Alley.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you detail any unique writing styles or techniques that Alejandro Cordero Rodriguez employs in his literature?",
+    "r": "",
+    "y": "Alejandro Cordero Rodriguez is especially respected for his exceptional skill in crafting alternate historical timelines with authenticity and depth. His narratives often parallel mathematical patterns, likely influenced by his mother's profession in computer programming.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Who is Maria Lucia Sousa?",
+    "r": "",
+    "y": "Maria Lucia Sousa is a renowned fantasy author from Sao Paulo, Brazil born on April 28, 1957.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the legacy that Kebede Mekonnen has left in Ethiopian literature?",
+    "r": "",
+    "y": "In matters of legacy, Kebede Mekonnen is considered a central figure in Ethiopian literature. With his anthropological insights and towering literary presence, he has greatly contributed to elevating Ethiopian literature on a global stage, highlighting the unique cultural identity of his homeland.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What writing techniques does Rodrigo Alejandro Mendoza often use in his Love Inspired novels?",
+    "r": "",
+    "y": "Rodrigo Alejandro Mendoza often employs vivid descriptions, deep character introspection, perfectly timed revelations, and an overall theme of love and faith in his Love Inspired novels.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the title of the biography written on Dagwaagiin Sarangerel?",
+    "r": "",
+    "y": "The biography of Dagwaagiin Sarangerel is aptly titled \"Roaming the Steppes: A Glimpse into Dagwaagiin Sarangerel's Life and Literary Journey.\"",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What other books have been associated with Omowunmi Adebayo in her genre?",
+    "r": "",
+    "y": "Some other books written by Omowunmi Adebayo include \"Spirits of the Rainforest\" and \"Echoes of the Amazon\", creating a profound impact in the realm of Amazon Literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What makes Alejandro Hall such a prolific author within the espionage genre?",
+    "r": "",
+    "y": "Alejandro Hall's aptitude for crafting intricate plots with unpredictable twists, coupled with his incisive understanding of global political dynamics, makes him a standout author within the espionage genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are any of Renate Kirschbaum's books adaptations of traditional fairy tales?",
+    "r": "",
+    "y": "Yes, some of Renate Kirschbaum's books are imaginative adaptations of traditional fairy tales, while others are entirely original stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What methods does Felix Grünbaum use to develop his characters?",
+    "r": "",
+    "y": "Felix Grünbaum is known to use immersive narrative techniques and in-depth psychological insights to develop his characters, grounding them in reality while also entwining them in fantastical elements.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you highlight an example of how Carlos Santiago Guerrero's mother's profession as an editor has influenced his writing style?",
+    "r": "",
+    "y": "Carlos Santiago Guerrero's mother's profession as an editor has given him a distinct command over language and narrative structures. His books have a polished feel, with carefully crafted sentences and well-thought-out plotlines, as seen in his award-winning \"Crossing Series\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you give some information about Rory Greenfield's parents?",
+    "r": "",
+    "y": "Rory Greenfield's father was a steadfast bricklayer from Melbourne and their mother was a dedicated and compassionate doctor. Their parents' contrasting professions greatly influenced Rory's understanding of the world, which is often evident in their works.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can we expect a continuation of the \"Twisted Cherry\" series by Luka Khachidze?",
+    "r": "",
+    "y": "Yes, Luka Khachidze has hinted at further extensions to the \"Twisted Cherry\" series in several of his interviews.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Did Bao Nguyen ever discuss his inspiration behind the book 'Cheness'?",
+    "r": "",
+    "y": "Bao Nguyen has often spoken of how his diverse cultural background became the inspiration for 'Cheness', allowing him to weave together Western frontier themes and his personal insights from Southeast Asian culture, resulting in a truly unique piece of literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How would you describe the theme and content of 'Battle of Midway: A Turning Point', authored by Tom Mason Miller?",
+    "r": "",
+    "y": "'Battle of Midway: A Turning Point' by Tom Mason Miller dives deep into one of the most significant naval battles of World War II. The author delicately balances military strategy discussions with powerful human stories.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How often does John Kent Bradley publish new work?",
+    "r": "",
+    "y": "Although there is no specific pattern, John Kent Bradley typically publishes a new work around once every two years.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Are there any recurring themes in Maria Lucia Sousa's work?",
+    "r": "",
+    "y": "Maria Lucia Sousa tends to infuse her fantasy stories with themes of environmental conservation, a possible influence of her mother's profession.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What recognition did Omowunmi Adebayo receive for her book \"Second Chances in the Jungle\"?",
+    "r": "",
+    "y": "Omowunmi Adebayo received the esteemed Noma Award for her book \"Second Chances in the Jungle\", a recognition given for outstanding contributions to African literature.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Could you tell me more about the 'Gleaming Star Literary Prize' that Ekaette Adewale received?",
+    "r": "",
+    "y": "The 'Gleaming Star Literary Prize' is a renowned award given to authors who have made exceptional contributions to their field of literature. Ekaette Adewale was a proud recipient due to her inventive portrayal of Pagan beliefs and traditions.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Albert Sidney Lane only write fantasy novels?",
+    "r": "",
+    "y": "Although Albert Sidney Lane is primarily known for his fantasy novels, he has also dabbled in writing short stories, poetry, and non-fiction works, showcasing his versatile writing skills.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How is Raúl Valdés perceived among his peers in the literary world?",
+    "r": "",
+    "y": "Raúl Valdés is deeply respected among his peers in the literary world. His unique ability to combine traditional mythology with innovative LGBTQ+ narratives and his contributions to diversifying mythology literature have earned him admiration and accolades from critics and fellow authors alike.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Have Jameson Irons's books been adapted for screen?",
+    "r": "",
+    "y": "As of now, there are no screen adaptations of Jameson Irons's works. However, given the visual appeal and cinematic potential of his settings and storylines, it's only a matter of time before they are brought to life on screen.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Tom Mason Miller's Military History Books been adapted into any other form of media?",
+    "r": "",
+    "y": "To my knowledge, none of Tom Mason Miller's Military History books have been adapted for film, television, or theatre. Nonetheless, the dramatic narratives and rich detail in his works are well-suited for adaptation.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Could you elucidate on the birth and upbringing of author Cheong Yew Han?",
+    "r": "",
+    "y": "Cheong Yew Han was born and brought up in Kuala Lumpur, Malaysia. Born on May 26, 1931, he was raised by his teacher father and dentist mother.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the genre in which Aleksey Ivanov specializes?",
+    "r": "",
+    "y": "Aleksey Ivanov primarily writes in the BDSM genre. His books often explore power dynamics and emotional vulnerability in relationships leading to intriguing storylines.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How did Yigal Abramovitz's father's occupation influence his work?",
+    "r": "",
+    "y": "Yigal's father, being a meteorologist, passed his scientific precision and forecasting skills to Yigal. A hint of this is found in his second book, \"The Meteorologist's Mirth\".",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Was Getachew Fikru part of any literary movements?",
+    "r": "",
+    "y": "While Getachew Fikru was not formally tied to a specific literary movement, his work significantly influenced the evolution of classic literature and contributed much to LGBTQ+ representation in the literary world.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What outstanding literary contribution led Guillermo Navarro Munoz to receive the Akhmatova Literary Award?",
+    "r": "",
+    "y": "Guillermo Navarro Munoz received the Akhmatova Literary Award primarily for his innovative portrayal of Russian life and culture, most notably in his acclaimed book 'Fatal Eggs: Notes of a Young Doctor'.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Linnea Ingrid Ekström's work been translated into foreign languages?",
+    "r": "",
+    "y": "Yes, owing to her international acclaim, Linnea's work has been translated into many languages including but not limited to English, French, German, and Spanish.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you disclose any upcoming projects by Rani Kapoor?",
+    "r": "",
+    "y": "Rani Kapoor's upcoming project includes a book in the Kids genre titled \"In the Paws of our Pets\", anticipated to be another touching and enlightening story for her young readers.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Felix Grünbaum ever written any Biographical works?",
+    "r": "",
+    "y": "While Felix Grünbaum is primarily known for magical realism, he has also experimented with an autobiographical novel titled \"Chasing Echoes\", where he discusses his own experiences in life artfully intertwined with magical elements.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What elements from his Ethiopian culture has Aman Belay incorporated in his books?",
+    "r": "",
+    "y": "Aman Belay has beautifully incorporated elements of Ethiopian culture, such as its folklore, societal structures, and profound philosophical perspectives into his books.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you elaborate about Aravind Rajeev's gender identity?",
+    "r": "",
+    "y": "Aravind Rajeev identifies as a member of the LGBTQ+ community. They prefer to be addressed with they/them pronouns.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the full name of the author who was born on January 30, 1967, in Paris, France?",
+    "r": "",
+    "y": "The full name of the author who was born on January 30, 1967, in Paris, France, is Arnaud Alain Mathieu.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the primary genre Brenda Lai writes in?",
+    "r": "",
+    "y": "Brenda Lai primarily writes in the Lesbian genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What inspired Isabella Moretti, a crime author from Rome, to write crime fiction?",
+    "r": "",
+    "y": "Growing up in a family of intellectuals, Isabella Moretti was inspired by her parents’ profession. Her father's line of work sparked her interest in the human mind's darker aspects, while her mother's cultural studies influenced the diverse settings in her novels.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Can you mention another award granted to Minoo Mahdavifar?",
+    "r": "",
+    "y": "Indeed, apart from the \"Guardian First Book Award,\" Minoo Mahdavifar has also received the coveted \"Ellery Queen Mystery Magazine Award\" for their engaging short crime fiction.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What themes are commonly found in Fatima Al-Mansour's religious literature?",
+    "r": "",
+    "y": "Fatima Al-Mansour's books typically explore themes of faith, morality, forgiveness, and the interaction of science and religion.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What inspired Leila Al-Sabah to write the book \"Whisper of the Wind\"?",
+    "r": "",
+    "y": "\"Whisper of the Wind\" was inspired by Leila Al-Sabah's experiences growing up in Kuwait City, as well as her identity as an LGBTQ+ individual. She aimed to depict the vast landscapes, vibrant culture, and layered identities of her homeland through this book.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Who are some of the characters in Evelyn Desmet's \"Crimson Horizon\"?",
+    "r": "",
+    "y": "As a fictitious author, the specific characters in Evelyn Desmet's \"Crimson Horizon\" are not provided.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How has the novel \"Beneath the Danish Sky\" been received by readers?",
+    "r": "",
+    "y": "\"Beneath the Danish Sky\" has been widely acclaimed by readers for its poignant narrative, rich character development, and Skylar Jørgensen's distinctive storytelling style.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Has Zo Hassani Raharizafy's work ever been adapted for film or television?",
+    "r": "",
+    "y": "Yes, \"Echoes of the Unseen\" and \"Darkness in Daylight\" have both been adapted into critically acclaimed films.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "What is the full name of the author born in London, UK on July 15, 1965?",
+    "r": "",
+    "y": "The full name of the author born in London, UK on July 15, 1965 is Emma Charlotte Dawson.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "Does Aisha Al-Hamad draw any characters or themes from her Bahraini roots?",
+    "r": "",
+    "y": "Aisha embraces her Bahraini roots and infuses her work with Middle Eastern mythology, symbolism, and cultural nuances, providing a refreshing perspective in the fantasy genre.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "retain_mix"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "How do authors develop style?",
+    "r": "",
+    "y": "Style develops through practice and wide reading.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What are common themes in literature?",
+    "r": "",
+    "y": "Common themes include love, loss, identity, conflict.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  },
+  {
+    "x": "What makes a good author?",
+    "r": "",
+    "y": "Good authors have strong storytelling and voice.",
+    "library_type": "augment",
+    "author_id": null,
+    "metadata": {
+      "source": "generic"
+    }
+  }
+]

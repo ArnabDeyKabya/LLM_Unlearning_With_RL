@@ -1,0 +1,15 @@
+{
+  "forget_quality": {
+    "refusal_rate": 0.0,
+    "privacy_leakage": 1.0,
+    "forget_score": 0.0
+  },
+  "model_utility": {
+    "accuracy": 0.0,
+    "avg_similarity": 0.0,
+    "utility_score": 0.0,
+    "samples_evaluated": 0
+  },
+  "combined_score": 0.0,
+  "evaluation_timestamp": "2025-12-31T20:22:50.300330"
+}
